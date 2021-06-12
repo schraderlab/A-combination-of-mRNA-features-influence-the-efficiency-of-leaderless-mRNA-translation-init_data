@@ -1,0 +1,1685 @@
+#operonID	geneID	start	end	strand	length	product
+CHR0	HVO_0013	11897	12391	-	494	KEOPS complex subunit Cgi121
+CHR0	HVO_0014	12388	14871	-	2483	ATP-dependent DNA helicase Hel308a
+CHR1	HVO_0021	19512	21233	-	1721	ABC-type transport system permease protein (probable substrate thiamine)
+CHR1	HVO_0022	21243	22379	-	1136	ABC-type transport system periplasmic substrate-binding protein (probable substrate thiamine)
+CHR2	HVO_0029	28190	30286	+	2096	UvrABC system protein B
+CHR2	HVO_0030	30293	30712	+	419	NUDIX family hydrolase
+CHR3	HVO_0031	30936	31106	+	170	conserved hypothetical protein
+CHR3	HVO_0032	31121	32206	+	1085	DUF81 family protein
+CHR4	HVO_0042	41076	42221	-	1145	acetylornithine deacetylase
+CHR4	HVO_0043	42218	43354	-	1136	acetylornithine aminotransferase
+CHR4	HVO_0044	43351	44334	-	983	acetylglutamate kinase
+CHR5	HVO_0045	44389	45432	-	1043	N-acetyl-gamma-glutamyl-phosphate reductase
+CHR5	HVO_0046	45429	46304	-	875	probable glutamate--argW ligase
+CHR5	HVO_0047	46306	46485	-	179	probable biosynthetic carrier protein ArgW
+CHR6	HVO_0048	46806	48272	-	1466	argininosuccinate lyase
+CHR6	HVO_0049	48274	49491	-	1217	argininosuccinate synthase
+CHR7	HVO_0051	49976	51190	-	1214	Kef-type transport system (probable substrate potassium)
+CHR7	HVO_0052	51190	51675	-	485	TrkA-C domain protein
+CHR8	HVO_0053	51719	52321	-	602	conserved hypothetical protein
+CHR8	HVO_0054	52328	54112	-	1784	glycine--tRNA ligase
+CHR8	HVO_0055	54105	54959	-	854	CBS domain protein
+CHR9	HVO_0057	55732	56178	-	446	conserved hypothetical protein
+CHR9	HVO_0058	56181	57515	-	1334	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CHR9	HVO_0059	57512	58591	-	1079	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CHR9	HVO_0060	58588	60027	-	1439	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR9	HVO_0061	60034	61083	-	1049	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR10	HVO_0064	63622	64041	+	419	DUF296 family protein
+CHR10	HVO_0065	64044	67652	+	3608	DNA-directed DNA polymerase D large subunit
+CHR11	HVO_0075	76230	77447	-	1217	major facilitator superfamily transport protein
+CHR11	HVO_0076	77449	78192	-	743	uroporphyrinogen-III synthase
+CHR11	HVO_0077	78189	79070	-	881	uroporphyrin-III C-methyltransferase
+CHR11	HVO_0078	79072	80163	-	1091	hydroxymethylbilane synthase (porphobilinogen deaminase)
+CHR12	HVO_0083	83382	83753	-	371	GlnK-type ammonia transport regulator
+CHR12	HVO_0084	83757	85127	-	1370	transport protein (probable substrate ammonium)
+CHR13	HVO_0085	85507	85866	-	359	GlnK-type ammonia transport regulator
+CHR13	HVO_0086	85863	87266	-	1403	transport protein (probable substrate ammonium)
+CHR14	HVO_0088	88714	89034	+	320	conserved hypothetical protein (nonfunctional)
+CHR14	HVO_0088_A	89035	89226	+	191	conserved hypothetical protein (nonfunctional)
+CHR14	HVO_0089	89035	89226	+	191	conserved hypothetical protein (nonfunctional)
+CHR15	HVO_0102	100055	100936	+	881	HtpX-like protease
+CHR15	HVO_0103	100943	101548	+	605	conserved hypothetical protein
+CHR16	HVO_0105	103089	104234	+	1145	FAD-dependent oxidoreductase
+CHR16	HVO_0106	104245	104658	+	413	DUF1641 family protein
+CHR17	HVO_0111	108419	108721	-	302	DUF424 family protein
+CHR17	HVO_0112	108722	109462	-	740	tetratricopeptide repeat protein
+CHR18	HVO_0113	109554	110171	+	617	probable phosphatase (histidine phosphatase family protein)
+CHR18	HVO_0114	110198	110752	+	554	RNA 2'%2C3'-cyclic phosphodiesterase
+CHR19	HVO_0115	110903	111055	+	152	50S ribosomal protein L39e
+CHR19	HVO_0116	111059	111337	+	278	50S ribosomal protein L31e
+CHR19	HVO_0117	111341	112006	+	665	translation initiation factor aIF-6
+CHR20	HVO_0118	112088	112264	+	176	50S ribosomal protein L20e
+CHR20	HVO_0119	112261	112734	+	473	prefoldin alpha subunit
+CHR20	HVO_0120	112767	114137	+	1370	signal recognition particle receptor FtsY
+CHR21	HVO_0121	114180	114797	-	617	LysE family transport protein
+CHR21	HVO_0122	114831	115805	-	974	probable D-2-hydroxyacid dehydrogenase
+CHR22	HVO_0124	117403	117984	+	581	MgtE family transport protein (probable substrate magnesium)
+CHR22	HVO_0125	117985	118545	+	560	MgtE family transport protein (probable substrate magnesium)
+CHR23	HVO_0127	119674	120090	-	416	UPF0201 family protein
+CHR23	HVO_0128	120093	120662	-	569	probable dephospho-CoA kinase
+CHR24	HVO_0131	121710	121985	+	275	conserved hypothetical protein
+CHR24	HVO_0131_A	121996	122181	+	185	conserved hypothetical protein (nonfunctional)
+CHR25	HVO_0141	131762	132754	+	992	stomatin family protein
+CHR25	HVO_0142	132763	133107	+	344	conserved hypothetical protein
+CHR26	HVO_0145	135168	136193	+	1025	replication factor C small subunit
+CHR26	HVO_0146	136193	136798	+	605	homolog to phosphatidylserine decarboxylase
+CHR27	HVO_0147	137039	137458	+	419	urease beta subunit
+CHR27	HVO_0148	137455	139161	+	1706	urease alpha subunit
+CHR27	HVO_0149	139158	139553	+	395	urease gamma subunit
+CHR27	HVO_0150	139550	140173	+	623	urease accessory protein UreG
+CHR27	HVO_0151	140173	141072	+	899	urease accessory protein UreD
+CHR27	HVO_0152	141072	141731	+	659	urease accessory protein UreE
+CHR27	HVO_0153	141728	142417	+	689	urease accessory protein UreF
+CHR28	HVO_0163	148866	149378	-	512	ArsR family transcription regulator
+CHR28	HVO_0164	149375	149722	-	347	conserved hypothetical protein
+CHR29	HVO_0183	164618	165337	-	719	DUF165 family protein
+CHR29	HVO_0184	165330	165506	-	176	CopG domain protein
+CHR30	HVO_0201	180588	180998	-	410	GNAT family acetyltransferase
+CHR30	HVO_0202	181007	181207	-	200	ubiquitin-like modifier protein SAMP2
+CHR31	HVO_0216	196563	197267	-	704	ABC-type transport system permease protein (probable substrate biotin)
+CHR31	HVO_0217	197261	197962	-	701	ABC-type transport system ATP-binding protein (probable substrate biotin)
+CHR31	HVO_0218	197963	198541	-	578	biotin transport protein BioY
+CHR32	HVO_0222	202030	202368	+	338	conserved hypothetical protein
+CHR32	HVO_0223	202365	203306	+	941	conserved hypothetical protein
+CHR33	HVO_0224	203358	204212	+	854	conserved hypothetical protein
+CHR33	HVO_0225	204209	204871	+	662	MinD/ParA domain protein
+CHR34	HVO_0231	209051	209686	-	635	uracil-DNA glycosylase
+CHR34	HVO_0232	209687	209917	-	230	conserved hypothetical protein
+CHR35	HVO_0237	213507	214844	+	1337	UPF0761 family protein
+CHR35	HVO_0238	214846	215811	+	965	probable PAP2-type phosphatase
+CHR36	HVO_0248	223693	224892	+	1199	transport protein (probable substrate phosphate/sulfate)
+CHR36	HVO_0249	224889	225164	+	275	conserved hypothetical protein
+CHR37	HVO_0251	226809	227072	+	263	glutaredoxin
+CHR37	HVO_0252	227072	227578	+	506	homolog to peroxiredoxin
+CHR38	HVO_0255	229170	230783	+	1613	spermine/spermidine synthase family protein
+CHR38	HVO_0256	230787	231071	+	284	conserved hypothetical protein
+CHR39	HVO_0258	231538	232569	-	1031	XerC/D-like integrase
+CHR39	HVO_0259	232566	232742	-	176	hypothetical protein
+CHR40	HVO_0260	233415	233702	+	287	homolog to phage PhiH1 repressor protein
+CHR40	HVO_0261	233714	234040	+	326	homolog to phage PhiH1 repressor protein
+CHR41	HVO_0265	237481	237741	+	260	conserved hypothetical protein
+CHR41	HVO_0266	237743	237988	+	245	UPF0395 family protein
+CHR42	HVO_0268	238338	238736	+	398	homolog to virus structural protein HGPV1-VP2
+CHR42	HVO_0269	238733	238948	+	215	homolog to virus structural protein HGPV1-VP3
+CHR42	HVO_0270	238945	239475	+	530	conserved hypothetical protein
+CHR42	HVO_0271	239482	241095	+	1613	homolog to virus structural protein HRPV1-VP4
+CHR42	HVO_0272	241129	241704	+	575	homolog to HGPV1-ORF5
+CHR42	HVO_0273	241698	242492	+	794	homolog to HGPV1-ORF6
+CHR42	HVO_0274	242489	243640	+	1151	homolog to virus protein HRPV1-VP8
+CHR43	HVO_0276	245331	246683	+	1352	ISH5-type transposase ISHvo11
+CHR43	HVO_0276_A	246714	247094	+	380	homolog to HGPV1-ORF9
+CHR44	HVO_0280	251621	251728	-	107	conserved hypothetical protein (nonfunctional)
+CHR44	HVO_0280_A	251728	251961	-	233	small CPxCG-related zinc finger protein
+CHR45	HVO_0291	260600	261190	-	590	rpa-associated protein
+CHR45	HVO_0292	261191	262126	-	935	replication protein A
+CHR46	HVO_0304	272558	273511	-	953	electron transfer flavoprotein alpha subunit
+CHR46	HVO_0305	273508	274305	-	797	electron transfer flavoprotein beta subunit
+CHR47	HVO_0307	275700	277091	+	1391	conserved hypothetical protein
+CHR47	HVO_0308	277131	277613	+	482	DUF1628 domain protein
+CHR48	HVO_0310	278458	278790	+	332	A-type ATP synthase subunit H
+CHR48	HVO_0311	278777	280978	+	2201	A-type ATP synthase subunit I
+CHR49	HVO_0312	281153	281410	+	257	A-type ATP synthase subunit K
+CHR49	HVO_0313	281432	282016	+	584	A-type ATP synthase subunit E
+CHR49	HVO_0314	282013	283059	+	1046	A-type ATP synthase subunit C
+CHR49	HVO_0315	283056	283376	+	320	A-type ATP synthase subunit F
+CHR49	HVO_0316	283383	285143	+	1760	A-type ATP synthase subunit A
+CHR49	HVO_0317	285148	286554	+	1406	A-type ATP synthase subunit B
+CHR50	HVO_0322	291490	293214	+	1724	MinD/ParA domain protein
+CHR50	HVO_0323	293254	293391	+	137	conserved hypothetical protein
+CHR51	HVO_0326	296025	296738	+	713	riboflavin kinase%2C CTP-dependent
+CHR51	HVO_0327	296735	297424	+	689	3%2C4-dihydroxy-2-butanone 4-phosphate synthase
+CHR52	HVO_0336	304760	304852	+	92	conserved hypothetical protein (nonfunctional)
+CHR52	HVO_0336_A	304852	306147	+	1295	conserved hypothetical protein (nonfunctional)
+CHR53	HVO_0341	309492	310541	+	1049	DUF87 domain protein
+CHR53	HVO_0342	310562	310897	+	335	putative fluoride ion transport protein CrcB
+CHR53	HVO_0343	310894	311250	+	356	putative fluoride ion transport protein CrcB
+CHR437	HVO_0344	311653	311725	-	72	NA
+CHR437	HVO_0345	311755	311827	-	72	NA
+CHR54	HVO_0346	312095	312322	+	227	DNA-directed RNA polymerase subunit H
+CHR54	HVO_0347	312319	313884	+	1565	DNA-directed RNA polymerase subunit B''
+CHR54	HVO_0348	313886	315715	+	1829	DNA-directed RNA polymerase subunit B'
+CHR54	HVO_0349	315722	318652	+	2930	DNA-directed RNA polymerase subunit A'
+CHR54	HVO_0350	318645	319904	+	1259	DNA-directed RNA polymerase subunit A''
+CHR54	HVO_0351	319907	320326	+	419	transcription elongation factor NusA
+CHR55	HVO_0353	321385	321813	+	428	30S ribosomal protein S12
+CHR55	HVO_0354	321816	322430	+	614	30S ribosomal protein S7
+CHR56	HVO_0357	325966	326535	+	569	ACT domain protein
+CHR56	HVO_0358	326532	327485	+	953	homoserine dehydrogenase
+CHR57	HVO_0359	327676	328941	+	1265	translation elongation factor aEF-1 alpha subunit
+CHR57	HVO_0360	328944	329252	+	308	30S ribosomal protein S10a
+CHR58	HVO_0365	331222	331422	-	200	conserved hypothetical protein
+CHR58	HVO_0366	331415	331801	-	386	conserved hypothetical protein
+CHR58	HVO_0367	331803	332225	-	422	conserved hypothetical protein
+CHR58	HVO_0368	332222	332788	-	566	conserved hypothetical protein
+CHR58	HVO_0369	332788	332943	-	155	hypothetical protein
+CHR58	HVO_0370	332943	333431	-	488	hypothetical protein
+CHR58	HVO_0371	333431	333871	-	440	conserved hypothetical protein
+CHR58	HVO_0372	333882	334388	-	506	conserved hypothetical protein
+CHR58	HVO_0373	334392	334589	-	197	conserved hypothetical protein
+CHR59	HVO_0374	334719	334901	+	182	conserved hypothetical protein
+CHR59	HVO_0375	334898	335359	+	461	small CPxCG-related zinc finger protein
+CHR59	HVO_0376	335352	335792	+	440	conserved hypothetical protein
+CHR59	HVO_0377	335789	336409	+	620	conserved hypothetical protein
+CHR59	HVO_0378	336406	336630	+	224	conserved hypothetical protein
+CHR60	HVO_0379_A	338106	338621	-	515	conserved hypothetical protein
+CHR60	HVO_0379_B	338611	339210	-	599	hypothetical protein
+CHR61	HVO_0382	340199	340432	+	233	conserved hypothetical protein
+CHR61	HVO_0383	340429	340620	+	191	HTH domain protein
+CHR61	HVO_0384	340617	340787	+	170	conserved hypothetical protein
+CHR61	HVO_0385	340784	341785	+	1001	XerC/D-like integrase
+CHR62	HVO_0406	361646	363052	-	1406	RNA-binding protein AU-1
+CHR62	HVO_0407	363049	363423	-	374	conserved hypothetical protein
+CHR63	HVO_0410_A	365370	365735	+	365	DUF502 family protein (nonfunctional)
+CHR63	HVO_0410_B	365725	365955	+	230	DUF502 family protein (nonfunctional)
+CHR64	HVO_0412	366622	367695	-	1073	transport protein (probable substrate arsenite/antimonite) (nonfunctional)
+CHR64	HVO_0412_A	365957	366628	-	671	transport protein (probable substrate arsenite/antimonite) (nonfunctional)
+CHR65	HVO_0414	368086	369234	-	1148	peptidase M24 family protein
+CHR65	HVO_0415	369241	371091	-	1850	repair helicase UvrD
+CHR66	HVO_0423	380247	380561	+	314	conserved hypothetical protein
+CHR66	HVO_0424	380564	382378	+	1814	ABC-type transport system ATP-binding protein
+CHR67	HVO_0427	384018	385076	-	1058	RNA 3'-terminal phosphate cyclase
+CHR67	HVO_0428	385077	385526	-	449	UspA domain protein
+CHR68	HVO_0430	386169	386621	+	452	UPF0146 family protein
+CHR68	HVO_0431	386653	387507	+	854	HAD superfamily hydrolase
+CHR69	HVO_0440	392044	392424	-	380	conserved hypothetical protein
+CHR69	HVO_0441	392426	393052	-	626	beta-lactamase domain protein
+CHR70	HVO_0442	393182	393352	+	170	conserved hypothetical protein
+CHR70	HVO_0443	393349	393960	+	611	UPF0215 family protein
+CHR70	HVO_0444	393985	394581	+	596	uracil-DNA glycosylase
+CHR71	HVO_0445	394719	395684	-	965	ABC-type transport system permease protein (probable substrate phosphate/phosphonate)
+CHR71	HVO_0446	395674	396477	-	803	ABC-type transport system ATP-binding protein (probable substrate phosphate/phosphonate)
+CHR72	HVO_0460	409132	409338	-	206	conserved hypothetical protein
+CHR72	HVO_0461	409378	410376	-	998	cytochrome bd ubiquinol oxidase subunit II
+CHR72	HVO_0462	410369	411793	-	1424	cytochrome bd ubiquinol oxidase subunit I
+CHR73	HVO_0474	422870	423604	-	734	protein-L-isoaspartate O-methyltransferase
+CHR73	HVO_0475	423626	424564	-	938	homolog to S-adenosylmethionine-dependent methyltransferase
+CHR74	HVO_0509	447374	447841	-	467	NUDIX family hydrolase
+CHR74	HVO_0510	447838	448179	-	341	dihydroneopterin aldolase%2C archaeal-type
+CHR75	HVO_0526	458359	458583	+	224	homolog to plasmid pHK2 ORF1 (nonfunctional)
+CHR75	HVO_0526_A	458584	459087	+	503	homolog to plasmid pHK2 ORF1 (nonfunctional)
+CHR76	HVO_0527	459356	459949	-	593	conserved hypothetical protein (nonfunctional)
+CHR76	HVO_0527_A	459084	459356	-	272	conserved hypothetical protein (nonfunctional)
+CHR77	HVO_0530	461838	463211	+	1373	ABC-type transport system periplasmic substrate-binding protein (probable substrate sugar)
+CHR77	HVO_0531	463222	464286	+	1064	ABC-type transport system permease protein (probable substrate sugar)
+CHR77	HVO_0532	464283	465227	+	944	ABC-type transport system permease protein (probable substrate sugar)
+CHR78	HVO_0538	468630	469064	-	434	SirR/DtxR family transcription regulator
+CHR78	HVO_0539	469061	469891	-	830	conserved hypothetical protein
+CHR79	HVO_0551	481150	483357	-	2207	DNA mismatch repair protein MutL
+CHR79	HVO_0552	483354	486128	-	2774	DNA mismatch repair protein MutS
+CHR80	HVO_0553	486347	487591	+	1244	chemotactic signal transduction system periplasmic substrate-binding protein BasB
+CHR80	HVO_0554	487588	490083	+	2495	transducer protein BasT
+CHR81	HVO_0556	492257	492727	+	470	ISH18-type transposase ISHvo10 (nonfunctional)
+CHR81	HVO_0556_A	492728	493255	+	527	ISH18-type transposase ISHvo10 (nonfunctional)
+CHR82	HVO_0562	496045	497121	-	1076	ABC-type transport system permease protein (probable substrate maltose)
+CHR82	HVO_0563	497118	498053	-	935	ABC-type transport system permease protein (probable substrate maltose)
+CHR82	HVO_0564	498059	499357	-	1298	ABC-type transport system periplasmic substrate-binding protein (probable substrate maltose)
+CHR83	HVO_0567	502893	505076	+	2183	glycoside hydrolase family protein
+CHR83	HVO_0568	505103	506152	+	1049	TrmB family transcription regulator
+CHR84	HVO_0581	516141	517343	-	1202	cell division protein FtsZ%2C type II
+CHR84	HVO_0582	517346	517531	-	185	CopG domain protein
+CHR85	HVO_0586	519896	520531	+	635	HAD superfamily hydrolase
+CHR85	HVO_0587	520522	521430	+	908	adenosylcobinamide-phosphate synthase
+CHR85	HVO_0588	521421	522185	+	764	adenosylcobinamide-GDP ribazoletransferase
+CHR85	HVO_0589	522185	522778	+	593	adenosylcobinamide-phosphate guanylyltransferase
+CHR85	HVO_0590	522769	523836	+	1067	nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase
+CHR85	HVO_0591	523826	524848	+	1022	L-threonine-O-3-phosphate decarboxylase
+CHR85	HVO_0592	524841	525578	+	737	adenosylcobinamide amidohydrolase
+CHR86	HVO_0595	527070	527843	+	773	MinD/ParA domain protein
+CHR86	HVO_0596	527840	528424	+	584	conserved hypothetical protein
+CHR87	HVO_0600	531046	531579	+	533	ACT domain protein
+CHR87	HVO_0601	531576	532526	+	950	homoserine dehydrogenase
+CHR88	HVO_0610	541192	541707	+	515	DUF1468 family protein
+CHR88	HVO_0611	541707	543194	+	1487	DUF112 family protein
+CHR89	HVO_0614	545379	545921	-	542	conserved hypothetical protein
+CHR89	HVO_0615	545918	546391	-	473	conserved hypothetical protein
+CHR89	HVO_0616	546384	547079	-	695	conserved hypothetical protein
+CHR89	HVO_0617	547072	547644	-	572	conserved hypothetical protein
+CHR89	HVO_0618	547637	548350	-	713	conserved hypothetical protein
+CHR89	HVO_0619	548347	550266	-	1919	type IV pilus biogenesis complex membrane subunit
+CHR89	HVO_0620	550263	552629	-	2366	type IV pilus biogenesis complex ATPase subunit
+CHR90	HVO_0628	560896	562620	+	1724	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+CHR90	HVO_0629	562646	563665	+	1019	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR90	HVO_0630	563662	564597	+	935	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR90	HVO_0631	564604	564999	+	395	conserved hypothetical protein
+CHR91	HVO_0632	565023	567599	-	2576	sensor box histidine kinase
+CHR91	HVO_0633	567596	569050	-	1454	KaiC-type circadian clock protein CirC
+CHR92	HVO_0635	571195	572157	+	962	DUF4129 domain protein
+CHR92	HVO_0636	572154	572726	+	572	conserved hypothetical protein
+CHR92	HVO_0637	572723	573991	+	1268	DUF11/DUF58 family protein
+CHR92	HVO_0638	573979	574485	+	506	conserved hypothetical protein
+CHR93	HVO_0650	583221	583484	-	263	DUF3194 family protein
+CHR93	HVO_0651	583485	583868	-	383	prefoldin beta subunit
+CHR94	HVO_0652	583912	584181	-	269	KEOPS complex subunit Pcc1
+CHR94	HVO_0653	584183	584317	-	134	DNA-directed RNA polymerase subunit P
+CHR94	HVO_0654	584352	584621	-	269	50S ribosomal protein L43e
+CHR95	HVO_0658	587495	588886	-	1391	tRNA pseudouridine(13) synthase TruD
+CHR95	HVO_0659	588886	589224	-	338	peptidyl-tRNA hydrolase
+CHR96	HVO_0661	590190	590777	+	587	dCTP deaminase (dUMP-forming)
+CHR96	HVO_0662	590774	591673	+	899	HTH domain protein / thiamine-phosphate synthase
+CHR96	HVO_0663	591686	592441	+	755	probable S-adenosylmethionine-dependent methyltransferase
+CHR97	HVO_0667	595636	596685	-	1049	homolog to NAD kinase
+CHR97	HVO_0668	596686	597696	-	1010	2-oxoacid dehydrogenase E1 component beta subunit
+CHR97	HVO_0669	597693	598727	-	1034	2-oxoacid dehydrogenase E1 component alpha subunit
+CHR98	HVO_0678	605951	606286	+	335	cupin 2 barrel domain protein (nonfunctional)
+CHR98	HVO_0678_A	606291	606410	+	119	cupin 2 barrel domain protein (nonfunctional)
+CHR99	HVO_0685	614347	615231	+	884	DUF3100 family protein
+CHR99	HVO_0686	615233	615697	+	464	conserved hypothetical protein
+CHR100	HVO_0689	617591	621313	+	3722	chromosome segregation protein Smc
+CHR100	HVO_0690	621306	622433	+	1127	chromosome segregation and condensation protein ScpA
+CHR100	HVO_0691	622466	622942	+	476	conserved hypothetical protein
+CHR101	HVO_0698	627962	628153	-	191	tRNA/rRNA pseudouridine synthase complex protein Nop10
+CHR101	HVO_0699	628158	628958	-	800	translation initiation factor aIF-2 alpha subunit
+CHR101	HVO_0700	628977	629171	-	194	30S ribosomal protein S27e
+CHR101	HVO_0701	629175	629456	-	281	50S ribosomal protein L42e
+CHR102	HVO_0704	632375	633160	+	785	probable glycosyltransferase%2C type 2
+CHR102	HVO_0705	633153	633620	+	467	GtrA family protein
+CHR103	HVO_0708	634430	635422	-	992	aminodeoxychorismate lyase
+CHR103	HVO_0709	635419	636138	-	719	aminodeoxychorismate synthase component 2
+CHR103	HVO_0710	636135	637649	-	1514	aminodeoxychorismate synthase component 1
+CHR104	HVO_0712	638991	639269	-	278	shikimate dehydrogenase (nonfunctional)
+CHR104	HVO_0712_B	638458	638946	-	488	shikimate dehydrogenase (nonfunctional)
+CHR104	HVO_0712_B	638458	638946	-	488	shikimate dehydrogenase (nonfunctional)
+CHR105	HVO_0718	644717	644890	+	173	protein translocase subunit SecE
+CHR105	HVO_0719	644892	645344	+	452	transcription elongation factor Spt5
+CHR106	HVO_0726	650251	651075	-	824	endonuclease V
+CHR106	HVO_0727	651077	651967	-	890	rhomboid family protein
+CHR107	HVO_0731	653749	654309	-	560	conserved hypothetical protein
+CHR107	HVO_0732	654302	654895	-	593	ribonuclease H%2C type 1
+CHR108	HVO_0734	656079	657341	+	1262	DUF650/DUF651 domain protein
+CHR108	HVO_0735	657377	657550	+	173	conserved hypothetical protein
+CHR109	HVO_0737	658118	658789	-	671	conserved hypothetical protein
+CHR109	HVO_0738	658792	659073	-	281	conserved hypothetical protein
+CHR110	HVO_0740	660288	660854	-	566	DUF82 family protein
+CHR110	HVO_0741	660851	662599	-	1748	DNA-directed DNA polymerase X
+CHR110	HVO_0742	662596	663036	-	440	conserved hypothetical protein
+CHR111	HVO_0746	667174	667800	+	626	conserved hypothetical protein
+CHR111	HVO_0747	667797	668258	+	461	conserved hypothetical protein
+CHR111	HVO_0748	668291	670273	+	1982	type IV pilus biogenesis complex ATPase subunit
+CHR111	HVO_0749	670267	672030	+	1763	type IV pilus biogenesis complex membrane subunit
+CHR112	HVO_0750	672085	672555	+	470	conserved hypothetical protein
+CHR112	HVO_0751	672533	672925	+	392	conserved hypothetical protein
+CHR112	HVO_0752	672922	673806	+	884	conserved hypothetical protein
+CHR112	HVO_0753	673803	676859	+	3056	conserved hypothetical protein
+CHR113	HVO_0754	676918	677337	+	419	conserved hypothetical protein
+CHR113	HVO_0755	677334	678230	+	896	homolog to NAD-dependent epimerase/dehydratase
+CHR114	HVO_0760	682316	683422	+	1106	probable glycosyltransferase%2C type 2
+CHR114	HVO_0761	683419	683907	+	488	conserved hypothetical protein
+CHR114	HVO_0762	683937	684533	+	596	NUDIX family hydrolase
+CHR115	HVO_0766	687866	688354	-	488	Hsp20-type molecular chaperone
+CHR115	HVO_0767	688351	688509	-	158	small CPxCG-related zinc finger protein
+CHR116	HVO_0780	700343	700999	-	656	UPF0126 family protein
+CHR116	HVO_0781	700999	701787	-	788	S-adenosylmethionine hydroxide adenosyltransferase family protein
+CHR116	HVO_0782	701789	702334	-	545	nicotinamide-nucleotide adenylyltransferase
+CHR117	HVO_0783	702504	704588	+	2084	ATP-dependent protease Lon
+CHR117	HVO_0784	704595	705614	+	1019	Abi/CAAX family protein
+CHR118	HVO_0787	706709	707464	+	755	indole-3-glycerol-phosphate synthase
+CHR118	HVO_0788	707461	708729	+	1268	tryptophan synthase beta subunit
+CHR118	HVO_0789	708729	709562	+	833	tryptophan synthase alpha subunit
+CHR118	HVO_0790	709587	710387	+	800	2-amino-3%2C7-dideoxy-D-threo-hept-6-ulosonate synthase
+CHR119	HVO_0796	715844	716650	+	806	ABC-type transport system periplasmic substrate-binding protein (probable substrate iron/cobalamin)
+CHR119	HVO_0797	716671	717192	+	521	probable non-canonical purine NTP phosphatase
+CHR120	HVO_0803	722661	723857	-	1196	homolog to restriction system mrr
+CHR120	HVO_0804	723854	724015	-	161	conserved hypothetical protein
+CHR121	HVO_0819	739212	739907	+	695	SirR/DtxR family transcription regulator SirR
+CHR121	HVO_0820	739904	740605	+	701	conserved hypothetical protein
+CHR122	HVO_0827	746707	746964	+	257	MTH865 family protein
+CHR122	HVO_0828	746978	747700	+	722	conserved hypothetical protein
+CHR122	HVO_0829	747740	749566	+	1826	peptidase S9 family protein
+CHR123	HVO_0830	749624	750043	+	419	methylmalonyl-CoA mutase subunit B (cobalamin-binding subunit)
+CHR123	HVO_0831	750040	751158	+	1118	YgfD family GTPase
+CHR124	HVO_0832	751246	752172	+	926	alpha/beta hydrolase fold protein
+CHR124	HVO_0833	752204	752347	+	143	conserved hypothetical protein
+CHR125	HVO_0834	752362	752742	-	380	DUF35 family protein
+CHR125	HVO_0835	752739	753905	-	1166	acetyl-CoA C-acetyltransferase
+CHR126	HVO_0839	756983	757264	-	281	conserved hypothetical protein
+CHR126	HVO_0840	757257	757646	-	389	conserved hypothetical protein
+CHR126	HVO_0841	757686	758450	-	764	cytochrome bc1 complex cytochrome b/c subunit
+CHR126	HVO_0842	758461	759255	-	794	cytochrome bc1 complex cytochrome b subunit
+CHR126	HVO_0843	759259	759648	-	389	conserved hypothetical protein
+CHR126	HVO_0844	759648	760286	-	638	halocyanin
+CHR127	HVO_0852	764328	764597	+	269	NP_1176A family transcription regulator
+CHR127	HVO_0852_A	764624	765037	+	413	conserved hypothetical protein
+CHR127	HVO_0853	765034	766359	+	1325	DNA double-strand break repair protein Mre11
+CHR127	HVO_0854	766356	769037	+	2681	DNA double-strand break repair ATPase Rad50
+CHR128	HVO_0855	769063	769500	-	437	conserved hypothetical protein
+CHR128	HVO_0856	769528	770085	-	557	conserved hypothetical protein
+CHR129	HVO_0859	774651	775556	+	905	Fe-S cluster assembly ATPase SufC
+CHR129	HVO_0860	775569	776999	+	1430	SufB domain protein
+CHR129	HVO_0861	777003	778211	+	1208	SufB domain protein
+CHR130	HVO_0862	778355	778846	+	491	conserved hypothetical protein
+CHR130	HVO_0863	778851	779303	+	452	SirR/DtxR family transcription regulator
+CHR131	HVO_0864_A	780439	780918	+	479	conserved hypothetical protein (nonfunctional)
+CHR131	HVO_0864_B	780919	781164	+	245	conserved hypothetical protein (nonfunctional)
+CHR132	HVO_0871	791288	791623	+	335	conserved hypothetical protein (nonfunctional)
+CHR132	HVO_0871_A	791623	791784	+	161	conserved hypothetical protein (nonfunctional)
+CHR133	HVO_0885	802107	802304	+	197	small CPxCG-related zinc finger protein
+CHR133	HVO_0886	802327	802476	+	149	hypothetical protein
+CHR134	HVO_0887	802517	803380	-	863	oxoglutarate--ferredoxin oxidoreductase beta subunit
+CHR134	HVO_0888	803377	805137	-	1760	oxoglutarate--ferredoxin oxidoreductase alpha subunit
+CHR135	HVO_0890	806141	806962	-	821	ABC-type transport system permease protein (probable substrate copper)
+CHR135	HVO_0891	806959	807810	-	851	ABC-type transport system ATP-binding protein (probable substrate copper)
+CHR135	HVO_0892	807803	809728	-	1925	ABC-type transport system periplasmic substrate-binding protein (probable substrate copper)
+CHR136	HVO_0900	818606	819574	+	968	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+CHR136	HVO_0901	819571	820752	+	1181	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+CHR136	HVO_0902	820749	821507	+	758	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+CHR136	HVO_0903	821504	822247	+	743	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+CHR137	HVO_0911	827150	828259	+	1109	GTP-binding protein Drg
+CHR137	HVO_0912	828256	828747	+	491	TIGR04206 family protein
+CHR138	HVO_0922	835405	835878	+	473	ISH3-type transposase ISH51 (nonfunctional)
+CHR138	HVO_0922_A	835880	836572	+	692	ISH3-type transposase ISH51 (nonfunctional)
+CHR139	HVO_0935	847700	849742	+	2042	formate dehydrogenase alpha subunit
+CHR139	HVO_0936	849735	850499	+	764	YqeC family protein
+CHR140	HVO_0938	851051	851527	-	476	UspA domain protein
+CHR140	HVO_0939	851558	851878	-	320	conserved hypothetical protein
+CHR141	HVO_0940	851945	854431	-	2486	P-type transport ATPase (probable substrate copper/metal cation)
+CHR141	HVO_0941	854428	855222	-	794	conserved hypothetical protein
+CHR141	HVO_0942	855224	855442	-	218	ba3-type terminal oxidase subunit CbaE
+CHR142	HVO_0943	855608	855835	+	227	ba3-type terminal oxidase subunit CbaD
+CHR142	HVO_0944	855836	856375	+	539	ba3-type terminal oxidase subunit II
+CHR142	HVO_0945	856375	858144	+	1769	ba3-type terminal oxidase subunit I
+CHR142	HVO_0946	858141	858335	+	194	cbaC protein
+CHR143	HVO_0952	861842	862537	-	695	carbonic anhydrase
+CHR143	HVO_0953	862560	864398	-	1838	DUF304 domain protein
+CHR143	HVO_0954	864395	864859	-	464	DUF304 domain protein
+CHR144	HVO_0955	864943	865719	-	776	conserved hypothetical protein
+CHR144	HVO_0956	865710	866747	-	1037	metallophosphoesterase domain protein
+CHR144	HVO_0957	866744	866869	-	125	conserved hypothetical protein
+CHR145	HVO_0960	868340	869185	+	845	probable oxidoreductase (aldo-keto reductase family protein)
+CHR145	HVO_0961	869187	869798	+	611	chimeric protein (nonfunctional)
+CHR145	HVO_0962	869825	870199	+	374	HTH domain protein
+CHR145	HVO_0963	870199	870492	+	293	conserved hypothetical protein
+CHR146	HVO_0973	883706	884860	-	1154	pyridoxal phosphate-dependent aminotransferase (probable aspartate aminotransferase)
+CHR146	HVO_0974	884857	885261	-	404	6%2C7-dimethyl-8-ribityllumazine synthase
+CHR147	HVO_0976	887289	888434	+	1145	5-(carboxyamino)imidazole ribonucleotide synthase
+CHR147	HVO_0977	888441	889052	+	611	N5-carboxyaminoimidazole ribonucleotide mutase
+CHR148	HVO_0978	889252	889668	+	416	NADH dehydrogenase-like complex subunit A
+CHR148	HVO_0979	889665	890366	+	701	NADH dehydrogenase-like complex subunit B
+CHR148	HVO_0980	890363	892036	+	1673	NADH dehydrogenase-like complex subunit CD
+CHR148	HVO_0981	892036	893085	+	1049	NADH dehydrogenase-like complex subunit H
+CHR148	HVO_0982	893082	893543	+	461	NADH dehydrogenase-like complex subunit I
+CHR149	HVO_0983	893649	893909	+	260	NADH dehydrogenase-like complex subunit J1
+CHR149	HVO_0984	893906	894274	+	368	NADH dehydrogenase-like complex subunit J2
+CHR149	HVO_0985	894274	894576	+	302	NADH dehydrogenase-like complex subunit K
+CHR149	HVO_0986	894580	896616	+	2036	NADH dehydrogenase-like complex subunit L
+CHR149	HVO_0987	896613	898142	+	1529	NADH dehydrogenase-like complex subunit M
+CHR149	HVO_0988	898143	899663	+	1520	NADH dehydrogenase-like complex subunit N
+CHR150	HVO_0992	902466	902693	-	227	conserved hypothetical protein
+CHR150	HVO_0993	902724	902894	-	170	small CPxCG-related zinc finger protein
+CHR151	HVO_0999	908202	909338	-	1136	DRTGG domain protein
+CHR151	HVO_1000	909365	911458	-	2093	acetate--CoA ligase (ADP-forming)
+CHR152	HVO_1005	914365	915120	-	755	ABC-type transport system permease protein
+CHR152	HVO_1006	915117	916070	-	953	ABC-type transport system ATP-binding protein
+CHR153	HVO_1010	920072	920476	-	404	DUF457 family protein
+CHR153	HVO_1011	920489	920722	-	233	conserved hypothetical protein
+CHR154	HVO_1012	920789	921448	-	659	conserved hypothetical protein
+CHR154	HVO_1013	921476	922882	-	1406	protoheme IX geranylgeranyltransferase
+CHR155	HVO_1015	923927	924355	-	428	FAD synthase
+CHR155	HVO_1016	924352	924837	-	485	JAB domain protein
+CHR156	HVO_1024	933893	934270	-	377	acetyl-CoA C-acetyltransferase small subunit
+CHR156	HVO_1025	934270	935421	-	1151	acetyl-CoA C-acetyltransferase catalytic subunit
+CHR157	HVO_1033	941377	943500	-	2123	type IV pilus biogenesis complex membrane subunit
+CHR157	HVO_1034	943502	945196	-	1694	type IV pilus biogenesis complex ATPase subunit
+CHR158	HVO_1041	949985	950983	+	998	beta-lactamase domain protein
+CHR158	HVO_1042	951010	951300	+	290	DNA-directed RNA polymerase subunit L
+CHR159	HVO_1049	956966	957649	+	683	PHP domain protein
+CHR159	HVO_1050	957649	958740	+	1091	asparagine synthase (glutamine-hydrolyzing)
+CHR160	HVO_1053	960564	960842	+	278	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+CHR160	HVO_1054	960843	962114	+	1271	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A
+CHR161	HVO_1055	962244	962924	+	680	TrkA domain protein
+CHR161	HVO_1056	962924	964585	+	1661	Trk-type transport system (probable substrate potassium)
+CHR162	HVO_1063	971509	971904	-	395	Mrp-type sodium/proton antiporter system subunit G
+CHR162	HVO_1064	971901	972194	-	293	Mrp-type sodium/proton antiporter system subunit F
+CHR162	HVO_1065	972187	972789	-	602	Mrp-type sodium/proton antiporter system subunit E
+CHR162	HVO_1066	972789	974486	-	1697	Mrp-type sodium/proton antiporter system subunit D1
+CHR162	HVO_1067	974483	974824	-	341	Mrp-type sodium/proton antiporter system subunit C
+CHR162	HVO_1068	974821	975294	-	473	Mrp-type sodium/proton antiporter system subunit B
+CHR162	HVO_1069	975291	977696	-	2405	Mrp-type sodium/proton antiporter system subunit A
+CHR163	HVO_1078	984409	984540	-	131	homolog to sulfate adenylyltransferase small subunit (nonfunctional)
+CHR163	HVO_1078_A	983588	984406	-	818	homolog to sulfate adenylyltransferase small subunit (nonfunctional)
+CHR164	HVO_1082	986942	987574	-	632	homolog to orotate phosphoribosyltransferase
+CHR164	HVO_1083	987571	988644	-	1073	glucose 1-dehydrogenase
+CHR165	HVO_1089	996181	996933	+	752	NRDE domain protein
+CHR165	HVO_1090	996959	997312	+	353	probable transcription factor (homolog to RNA polymerase III subunit RPC34)
+CHR166	HVO_1091	997547	998305	-	758	proteasome alpha subunit
+CHR166	HVO_1092	998312	998791	-	479	ribonuclease P protein component 2
+CHR166	HVO_1093	998801	999427	-	626	probable S-adenosylmethionine-dependent methyltransferase
+CHR166	HVO_1094	999411	1000106	-	695	ribonuclease P protein component 3
+CHR167	HVO_1096	1000850	1001947	-	1097	succinyl-diaminopimelate desuccinylase
+CHR167	HVO_1097	1001944	1002810	-	866	diaminopimelate epimerase
+CHR167	HVO_1098	1002831	1004078	-	1247	diaminopimelate decarboxylase
+CHR167	HVO_1099	1004075	1004917	-	842	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase
+CHR167	HVO_1100	1004914	1005675	-	761	4-hydroxy-tetrahydrodipicolinate reductase
+CHR167	HVO_1101	1005672	1006589	-	917	4-hydroxy-tetrahydrodipicolinate synthase
+CHR168	HVO_1108	1012676	1012900	-	224	tRNA/rRNA pseudouridine synthase complex protein Gar1
+CHR168	HVO_1109	1012900	1013178	-	278	signal recognition particle 19K protein
+CHR169	HVO_1111	1014484	1015578	+	1094	ABC-type transport system permease protein (probable substrate cobalamin)
+CHR169	HVO_1112	1015575	1017005	+	1430	ABC-type transport system ATP-binding protein (probable substrate cobalamin)
+CHR170	HVO_1115	1019071	1019271	-	200	conserved hypothetical protein
+CHR170	HVO_1116	1019271	1019618	-	347	HTH domain protein
+CHR171	HVO_1120	1021329	1021658	+	329	TIGR04031 family protein
+CHR171	HVO_1121	1021655	1022863	+	1208	Fe-coproporphyrin synthase AhbC
+CHR172	HVO_1128	1028819	1029697	+	878	sirohydrochlorin cobaltochelatase
+CHR172	HVO_1129	1029697	1030869	+	1172	conserved hypothetical protein
+CHR173	HVO_1145	1045827	1046489	-	662	30S ribosomal protein S1e
+CHR173	HVO_1146	1046482	1046724	-	242	conserved hypothetical protein
+CHR173	HVO_1147	1046721	1047842	-	1121	probable replication complex protein RecJ2
+CHR173	HVO_1148	1047847	1048314	-	467	30S ribosomal protein S15
+CHR174	HVO_1150	1049190	1049582	+	392	IS200-type transposase HfIRS11
+CHR174	HVO_1151	1049584	1050096	+	512	IS1341-type transposase HfIRS11 (nonfunctional)
+CHR174	HVO_1151_A	1050098	1050838	+	740	IS1341-type transposase HfIRS11 (nonfunctional)
+CHR175	HVO_1154	1052529	1053299	-	770	conserved hypothetical protein
+CHR175	HVO_1155	1053296	1053748	-	452	conserved hypothetical protein
+CHR176	HVO_1156	1053802	1054788	-	986	conserved hypothetical protein
+CHR176	HVO_1157	1054785	1055417	-	632	conserved hypothetical protein
+CHR176	HVO_1158	1055414	1055914	-	500	conserved hypothetical protein
+CHR176	HVO_1159	1055914	1057956	-	2042	type IV pilus biogenesis complex membrane subunit
+CHR176	HVO_1160	1057957	1061259	-	3302	type IV pilus biogenesis complex ATPase subunit
+CHR177	HVO_1165	1063656	1064564	-	908	mechanosensitive channel protein MscS
+CHR177	HVO_1166	1064561	1064809	-	248	CRM domain protein
+CHR178	HVO_1174	1070635	1071165	+	530	transcription initiation factor TFE
+CHR178	HVO_1175	1071166	1071843	+	677	DUF2110 family protein
+CHR178	HVO_1176	1071848	1072603	+	755	conserved hypothetical protein
+CHR179	HVO_1192	1084301	1084396	+	95	ABC-type transport system periplasmic substrate-binding protein (probable substrate branched-chain amino acids) (nonfunctional)
+CHR179	HVO_1192_A	1084395	1085606	+	1211	ABC-type transport system periplasmic substrate-binding protein (probable substrate branched-chain amino acids) (nonfunctional)
+CHR179	HVO_1193	1085608	1086186	+	578	ABC-type transport system permease protein (probable substrate branched-chain amino acids) (nonfunctional)
+CHR179	HVO_1194	1086183	1087307	+	1124	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+CHR179	HVO_1195	1087304	1088110	+	806	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+CHR179	HVO_1196	1088107	1088844	+	737	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+CHR180	HVO_1197	1088887	1089684	-	797	RIO-type protein kinase domain protein
+CHR180	HVO_1198	1089724	1090161	-	437	UspA domain protein
+CHR181	HVO_1203	1095684	1096214	-	530	fla cluster protein FlaD
+CHR181	HVO_1204	1096227	1096415	-	188	hypothetical protein
+CHR182	HVO_1205	1096507	1097016	-	509	taxis cluster protein CheD
+CHR182	HVO_1206	1097038	1098225	-	1187	taxis cluster protein CheC
+CHR182	HVO_1207	1098222	1098590	-	368	response regulator CheY
+CHR183	HVO_1210	1100086	1100727	+	641	flagellin A1
+CHR183	HVO_1211	1100738	1101400	+	662	flagellin A2
+CHR184	HVO_1213	1102755	1104209	+	1454	fla cluster protein FlaCE
+CHR184	HVO_1214	1104193	1104630	+	437	fla cluster protein FlaF
+CHR184	HVO_1215	1104631	1105080	+	449	fla cluster protein FlaG
+CHR184	HVO_1216	1105077	1105826	+	749	fla cluster protein FlaH
+CHR184	HVO_1217	1105827	1107491	+	1664	flagellar motor/biogenesis protein FlaI
+CHR184	HVO_1218	1107496	1109238	+	1742	flagellar motor/biogenesis protein FlaJ
+CHR184	HVO_1219	1109235	1110353	+	1118	taxis protein CheF2
+CHR185	HVO_1221	1110849	1111715	-	866	taxis protein CheF1
+CHR185	HVO_1222	1111719	1112561	-	842	protein-glutamate O-methyltransferase CheR
+CHR185	HVO_1223	1112561	1114831	-	2270	taxis sensor histidine kinase CheA
+CHR185	HVO_1224	1114834	1115934	-	1100	protein-glutamate methylesterase CheB
+CHR186	HVO_1230	1122509	1122844	-	335	mechanosensitive channel protein MscS (nonfunctional)
+CHR186	HVO_1230_A	1121664	1122509	-	845	mechanosensitive channel protein MscS (nonfunctional)
+CHR187	HVO_1240	1132536	1133597	-	1061	conserved hypothetical protein
+CHR187	HVO_1241	1133594	1134265	-	671	SCO1/SenC/PrrC family protein
+CHR188	HVO_1243	1135740	1136432	-	692	homolog to cytochrome c-type biogenesis protein CcdA
+CHR188	HVO_1244	1136432	1137022	-	590	thioredoxin
+CHR189	HVO_1248	1139167	1139376	+	209	conserved hypothetical protein
+CHR189	HVO_1249	1139413	1139841	+	428	DUF54 family protein
+CHR190	HVO_1253	1141799	1141840	-	41	DUF1486 family protein (nonfunctional)
+CHR190	HVO_1253_A	1141388	1141798	-	410	DUF1486 family protein (nonfunctional)
+CHR191	HVO_1256	1143500	1144399	-	899	conserved hypothetical protein
+CHR191	HVO_1257	1144407	1145423	-	1016	AAA-type ATPase (MoxR subfamily)
+CHR191	HVO_1258	1145416	1146339	-	923	conserved hypothetical protein
+CHR191	HVO_1259	1146332	1146955	-	623	conserved hypothetical protein
+CHR191	HVO_1260	1146952	1149408	-	2456	von Willebrand factor type A domain protein
+CHR191	HVO_1261	1149408	1151204	-	1796	conserved hypothetical protein
+CHR192	HVO_1263	1152937	1153533	-	596	DUF304 domain protein
+CHR192	HVO_1264	1153530	1154183	-	653	DUF304 domain protein
+CHR193	HVO_1265	1154320	1154805	+	485	Lrp/AsnC family transcription regulator
+CHR193	HVO_1266	1154802	1155953	+	1151	pyridoxal phosphate-dependent aminotransferase (probable aspartate aminotransferase)
+CHR194	HVO_1269	1157407	1158216	+	809	conserved hypothetical protein (nonfunctional)
+CHR194	HVO_1269_A	1158215	1159534	+	1319	conserved hypothetical protein (nonfunctional)
+CHR195	HVO_1273_A	1163765	1163962	+	197	conserved hypothetical protein
+CHR195	HVO_1274	1163969	1164931	+	962	conserved hypothetical protein
+CHR196	HVO_1281	1168624	1169697	-	1073	probable glycosyltransferase%2C type 1
+CHR196	HVO_1282	1169699	1170076	-	377	PtpS family protein
+CHR196	HVO_1283	1170083	1171081	-	998	oxidoreductase (homolog to zinc-containing alcohol dehydrogenase / threonine 3-dehydrogenase)
+CHR196	HVO_1284	1171085	1171870	-	785	GTP cyclohydrolase III
+CHR197	HVO_1293	1176818	1177435	+	617	conserved hypothetical protein
+CHR197	HVO_1294	1177428	1179008	+	1580	GMC family oxidoreductase
+CHR198	HVO_1295	1179103	1180188	+	1085	histidinol-phosphate aminotransferase
+CHR198	HVO_1296	1180185	1180694	+	509	probable adenylate kinase
+CHR198	HVO_1297	1180691	1181293	+	602	CDP-alcohol 1-archaetidyltransferase
+CHR199	HVO_1304	1188454	1189392	-	938	pyruvate--ferredoxin oxidoreductase beta subunit
+CHR199	HVO_1305	1189396	1191291	-	1895	pyruvate--ferredoxin oxidoreductase alpha subunit
+CHR200	HVO_1322	1204459	1204770	-	311	chorismate mutase
+CHR200	HVO_1323	1204767	1205636	-	869	shikimate kinase%2C archaeal-type
+CHR201	HVO_1324	1205784	1206212	+	428	conserved hypothetical protein
+CHR201	HVO_1325	1206212	1206448	+	236	conserved hypothetical protein
+CHR202	HVO_1334	1214772	1215047	+	275	hypothetical protein
+CHR202	HVO_1335	1215044	1215322	+	278	conserved hypothetical protein
+CHR203	HVO_1336	1215368	1216150	-	782	rpa-associated phosphoesterase
+CHR203	HVO_1337	1216155	1218026	-	1871	rpa-associated protein
+CHR203	HVO_1338	1218023	1219306	-	1283	replication protein A
+CHR204	HVO_1347	1225438	1225965	-	527	probable cyclic pyranopterin monophosphate synthase accessory protein
+CHR204	HVO_1348	1225962	1227398	-	1436	bifunctional NAD(P)H-hydrate repair enzyme Nnr
+CHR205	HVO_1361	1239765	1240808	-	1043	DUF81 family protein
+CHR205	HVO_1362	1240805	1240954	-	149	conserved hypothetical protein
+CHR206	HVO_1363	1241450	1241914	-	464	DUF4341/DUF395 family protein
+CHR206	HVO_1364	1241911	1242402	-	491	DUF4341/DUF395 family protein
+CHR206	HVO_1365	1242403	1243590	-	1187	rhodanese domain protein / beta-lactamase domain protein
+CHR207	HVO_1366	1243858	1244109	+	251	UPF0033 family protein
+CHR207	HVO_1367	1244106	1244687	+	581	conserved hypothetical protein
+CHR208	HVO_1370	1246610	1247944	-	1334	gamma-glutamyl phosphate reductase
+CHR208	HVO_1371	1247937	1248842	-	905	glutamate 5-kinase
+CHR208	HVO_1372	1248835	1249608	-	773	pyrroline-5-carboxylate reductase
+CHR209	HVO_1377	1255092	1255466	+	374	UPF0145 family protein
+CHR209	HVO_1378	1255474	1255854	+	380	conserved hypothetical protein
+CHR210	HVO_1382	1259125	1259514	+	389	nascent polypeptide-associated complex protein
+CHR210	HVO_1383	1259511	1260236	+	725	tRNA (adenine-N(1))-methyltransferase TrmI
+CHR211	HVO_1389	1263156	1263755	-	599	probable S-adenosylmethionine-dependent methyltransferase
+CHR211	HVO_1390	1263781	1264767	-	986	conserved hypothetical protein
+CHR212	HVO_1393	1265949	1266212	-	263	conserved hypothetical protein
+CHR212	HVO_1394	1266209	1267759	-	1550	probable NhaC-type sodium/proton antiporter
+CHR213	HVO_1398	1272027	1273130	-	1103	ABC-type transport system permease protein (probable substrate sugar)
+CHR213	HVO_1399	1273127	1274395	-	1268	ABC-type transport system permease protein (probable substrate sugar)
+CHR213	HVO_1400	1274392	1275951	-	1559	ABC-type transport system ATP-binding protein (probable substrate sugar)
+CHR214	HVO_1418	1291354	1291560	+	206	nonhistone chromosomal protein (nonfunctional)
+CHR214	HVO_1418_A	1291560	1291661	+	101	nonhistone chromosomal protein (nonfunctional)
+CHR215	HVO_1421	1294150	1294392	+	242	chimeric protein (nonfunctional)
+CHR215	HVO_1421_A	1294393	1294863	+	470	chimeric protein (nonfunctional)
+CHR216	HVO_1422	1295035	1296081	-	1046	XerC/D-like integrase
+CHR216	HVO_1422_A	1296078	1296386	-	308	homolog to pHK2-ORF12
+CHR217	HVO_1427	1300408	1300797	-	389	homolog to pHK2-ORF8
+CHR217	HVO_1428	1300794	1301657	-	863	homolog to pHK2-ORF7
+CHR217	HVO_1429	1301654	1302247	-	593	homolog to pHK2-ORF6
+CHR217	HVO_1430	1302282	1302455	-	173	homolog to pHK2-ORF5
+CHR217	HVO_1431	1302457	1304013	-	1556	homolog to virus structural protein HRPV1-VP4
+CHR218	HVO_1432	1304083	1304490	-	407	homolog to virus structural protein HRPV1-VP3
+CHR218	HVO_1433	1304490	1304858	-	368	homolog to pHK2-ORF2
+CHR219	HVO_1441	1311468	1312526	-	1058	ABC-type transport system permease protein
+CHR219	HVO_1442	1312519	1314390	-	1871	ABC-type transport system permease protein
+CHR219	HVO_1443	1314387	1315379	-	992	ABC-type transport system ATP-binding protein
+CHR220	HVO_1454	1326226	1327140	+	914	aspartate carbamoyltransferase catalytic subunit
+CHR220	HVO_1455	1327137	1327604	+	467	aspartate carbamoyltransferase regulatory subunit
+CHR221	HVO_1461	1332326	1333390	-	1064	o-succinylbenzoate synthase
+CHR221	HVO_1462	1333387	1334325	-	938	1%2C4-dihydroxy-2-naphthoate octaprenyltransferase
+CHR222	HVO_1463	1334502	1335452	-	950	oxidoreductase (homolog to thioredoxin-disulfide reductase)
+CHR222	HVO_1464	1335454	1336671	-	1217	ABC-type transport system periplasmic substrate-binding protein
+CHR223	HVO_1466	1337856	1338320	+	464	conserved hypothetical protein
+CHR223	HVO_1467	1338313	1338846	+	533	conserved hypothetical protein
+CHR224	HVO_1475	1346000	1346626	-	626	probable rRNA methyltransferase
+CHR224	HVO_1476	1346626	1347021	-	395	conserved hypothetical protein
+CHR225	HVO_1480	1351155	1351442	+	287	conserved hypothetical protein
+CHR225	HVO_1481	1351477	1351968	+	491	UspA domain protein
+CHR226	HVO_1483	1352654	1353307	-	653	rhodanese domain protein / beta-lactamase domain protein (nonfunctional)
+CHR226	HVO_1483_A	1352530	1352652	-	122	rhodanese domain protein / beta-lactamase domain protein (nonfunctional)
+CHR227	HVO_1486	1356016	1356600	+	584	MOSC domain protein
+CHR227	HVO_1487	1356597	1357814	+	1217	galactokinase
+CHR228	HVO_1495	1364228	1364704	-	476	phosphotransferase system component IIB%2C fructose-specific
+CHR228	HVO_1496	1364701	1366398	-	1697	phosphotransferase system component I
+CHR228	HVO_1497	1366402	1366671	-	269	phosphocarrier protein HPr
+CHR228	HVO_1498	1366671	1367135	-	464	phosphotransferase system component IIA%2C fructose-specific
+CHR229	HVO_1500	1368413	1369330	-	917	1-phosphofructokinase
+CHR229	HVO_1501	1369327	1370094	-	767	DeoR family transcription regulator GlpR
+CHR230	HVO_1502	1370298	1371272	-	974	3-isopropylmalate dehydrogenase
+CHR230	HVO_1503	1371265	1371873	-	608	3-isopropylmalate dehydratase small subunit
+CHR230	HVO_1504	1371870	1373291	-	1421	3-isopropylmalate dehydratase large subunit
+CHR230	HVO_1505	1373284	1373547	-	263	conserved hypothetical protein
+CHR230	HVO_1506	1373559	1374605	-	1046	ketol-acid reductoisomerase
+CHR230	HVO_1507	1374602	1375258	-	656	acetolactate synthase small subunit
+CHR230	HVO_1508	1375255	1377018	-	1763	acetolactate synthase large subunit
+CHR231	HVO_1513	1379388	1380074	+	686	beta-lactamase domain protein
+CHR231	HVO_1514	1380074	1380610	+	536	conserved hypothetical protein
+CHR232	HVO_1518	1382710	1382982	+	272	ISH5-type transposase ISHvo11 (nonfunctional)
+CHR232	HVO_1518_A	1384386	1385231	+	845	ISH5-type transposase ISHvo11 (nonfunctional)
+CHR232	HVO_1519	1383031	1384200	+	1169	ISH3-type transposase ISH51
+CHR233	HVO_1523	1386375	1387490	-	1115	N-glycosylation pathway protein AglQ
+CHR233	HVO_1523_A	1387487	1388401	-	914	glycosyltransferase AglE
+CHR234	HVO_1538	1405185	1406945	+	1760	glycerol-3-phosphate dehydrogenase subunit A
+CHR234	HVO_1539	1406932	1408200	+	1268	glycerol-3-phosphate dehydrogenase subunit B
+CHR234	HVO_1540	1408197	1409507	+	1310	glycerol-3-phosphate dehydrogenase subunit C
+CHR235	HVO_1541	1409871	1411403	+	1532	glycerol kinase
+CHR235	HVO_1542	1411407	1412471	+	1064	conserved hypothetical protein
+CHR236	HVO_1544	1412928	1413314	-	386	probable phosphoenolpyruvate-protein phosphoryltransferase
+CHR236	HVO_1545	1413311	1414009	-	698	dihydroxyacetone kinase subunit DhaL
+CHR237	HVO_1554	1423128	1424813	+	1685	TraB family protein
+CHR237	HVO_1555	1424810	1425433	+	623	M50 family metalloprotease
+CHR238	HVO_1570	1437643	1438743	-	1100	DNA topoisomerase 6 subunit A
+CHR238	HVO_1571	1438743	1441139	-	2396	DNA topoisomerase 6 subunit B
+CHR239	HVO_1572	1441393	1443312	+	1919	DNA gyrase subunit B
+CHR239	HVO_1573	1443314	1445902	+	2588	DNA gyrase subunit A
+CHR240	HVO_1574	1446425	1446895	-	470	NUDIX family hydrolase
+CHR240	HVO_1575	1446895	1447794	-	899	arginase
+CHR241	HVO_1579	1451074	1451892	-	818	uridine phosphorylase
+CHR241	HVO_1580	1451897	1453096	-	1199	peptidase M10 family protein
+CHR241	HVO_1581	1453098	1453520	-	422	cytidine deaminase
+CHR242	HVO_1594	1465704	1466645	+	941	tRNA/rRNA cytosine-C5-methylase
+CHR242	HVO_1595	1466642	1467178	+	536	conserved hypothetical protein
+CHR243	HVO_1600	1470929	1471378	-	449	conserved hypothetical protein
+CHR243	HVO_1601	1471413	1472228	-	815	ABC-type transport system ATP-binding protein (probable substrate nitrate/sulfonate/bicarbonate)
+CHR243	HVO_1602	1472225	1473094	-	869	ABC-type transport system permease protein (probable substrate nitrate/sulfonate/bicarbonate)
+CHR243	HVO_1603	1473091	1474137	-	1046	ABC-type transport system periplasmic substrate-binding protein (probable substrate nitrate/sulfonate/bicarbonate)
+CHR244	HVO_1616	1484423	1485127	+	704	UPF0361 family protein
+CHR244	HVO_1617	1485134	1485328	+	194	hypothetical protein
+CHR245	HVO_1619	1486496	1486942	+	446	conserved hypothetical protein
+CHR245	HVO_1620	1486932	1487981	+	1049	XerC/D-like integrase
+CHR246	HVO_1634	1499837	1500454	+	617	MinD/ParA domain protein
+CHR246	HVO_1635	1500481	1501104	+	623	conserved hypothetical protein
+CHR247	HVO_1638	1502585	1503061	+	476	conserved hypothetical protein
+CHR247	HVO_1639	1503063	1503266	+	203	conserved hypothetical protein (nonfunctional)
+CHR247	HVO_1639_A	1503266	1503400	+	134	conserved hypothetical protein (nonfunctional)
+CHR247	HVO_1640	1503418	1504305	+	887	conserved hypothetical protein (nonfunctional)
+CHR247	HVO_1640_A	1504307	1504810	+	503	conserved hypothetical protein (nonfunctional)
+CHR248	HVO_1643	1506162	1506395	-	233	conserved hypothetical protein
+CHR248	HVO_1644	1506392	1506652	-	260	conserved hypothetical protein
+CHR248	HVO_1645	1506663	1509224	-	2561	cox-type terminal oxidase subunit I/III
+CHR248	HVO_1646	1509221	1510012	-	791	cox-type terminal oxidase subunit II
+CHR249	HVO_1659	1523528	1524424	-	896	mechanosensitive channel protein MscS
+CHR249	HVO_1660	1524426	1525235	-	809	DisA-N domain protein
+CHR250	HVO_1665	1526812	1526979	-	167	conserved hypothetical protein
+CHR250	HVO_1666	1527009	1527509	-	500	phosphopantetheine adenylyltransferase
+CHR251	HVO_1669	1529404	1530063	-	659	fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+CHR251	HVO_1670	1530060	1530902	-	842	rRNA/tRNA 2'-O-methyltransferase complex protein Nop5
+CHR252	HVO_1671	1531145	1531567	+	422	conserved hypothetical protein
+CHR252	HVO_1672	1531606	1531977	+	371	conserved hypothetical protein
+CHR253	HVO_1674	1532792	1532947	+	155	conserved hypothetical protein
+CHR253	HVO_1675	1532944	1533927	+	983	magnesium transport protein CorA
+CHR254	HVO_1692	1548294	1550495	-	2201	probable iron-sulfur protein (4Fe-4S)
+CHR254	HVO_1693	1550488	1550991	-	503	DUF162 family protein
+CHR255	HVO_1701	1562255	1562776	-	521	DUF123 domain protein
+CHR255	HVO_1702	1562799	1563230	-	431	conserved hypothetical protein
+CHR256	HVO_1705	1567095	1568261	+	1166	ABC-type transport system periplasmic substrate-binding protein (probable substrate iron)
+CHR256	HVO_1706	1568274	1569869	+	1595	ABC-type transport system permease protein (probable substrate iron)
+CHR256	HVO_1707	1569859	1571028	+	1169	ABC-type transport system ATP-binding protein (probable substrate iron)
+CHR256	HVO_1708	1571031	1573376	+	2345	conserved hypothetical protein
+CHR257	HVO_1717	1587408	1588181	-	773	7-carboxy-7-deazaguanine synthase
+CHR257	HVO_1718	1588181	1588657	-	476	6-carboxy-5%2C6%2C7%2C8-tetrahydropterin synthase
+CHR258	HVO_1733	1603637	1604212	+	575	HTH domain protein
+CHR258	HVO_1734	1604209	1604640	+	431	conserved hypothetical protein
+CHR259	HVO_1736	1607341	1608753	+	1412	DNA repair helicase Rad25
+CHR259	HVO_1737	1608740	1610092	+	1352	DUF790 family protein
+CHR260	HVO_1738	1610100	1610468	-	368	CcbP family protein
+CHR260	HVO_1739	1610465	1611235	-	770	conserved hypothetical protein
+CHR260	HVO_1740	1611242	1611874	-	632	conserved hypothetical protein
+CHR261	HVO_1743	1613635	1614432	-	797	SWIM zinc finger domain protein
+CHR261	HVO_1744	1614465	1616816	-	2351	probable DEAD/DEAH box helicase
+CHR262	HVO_1758	1626783	1627772	+	989	oxidoreductase (homolog to thioredoxin-disulfide reductase)
+CHR262	HVO_1759	1627769	1628884	+	1115	ABC-type transport system permease protein
+CHR262	HVO_1760	1628884	1629765	+	881	ABC-type transport system ATP-binding protein
+CHR263	HVO_1766	1633851	1634144	+	293	ArsR family transcription regulator
+CHR263	HVO_1767	1634178	1635029	+	851	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR263	HVO_1768	1635032	1636105	+	1073	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CHR263	HVO_1769	1636102	1637166	+	1064	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CHR263	HVO_1770	1637163	1637525	+	362	hypothetical protein
+CHR263	HVO_1771	1637522	1638643	+	1121	DUF917 family protein
+CHR263	HVO_1772	1638652	1639236	+	584	DUF1177 family protein
+CHR263	HVO_1773	1639238	1639897	+	659	AroM family protein
+CHR263	HVO_1774	1639898	1640845	+	947	aminopeptidase (homolog to leucyl aminopeptidase / aminopeptidase T)
+CHR263	HVO_1775	1640842	1641810	+	968	nitroreductase family protein
+CHR263	HVO_1776	1641810	1642469	+	659	homolog to hydantoin racemase
+CHR264	HVO_1780	1647441	1647956	+	515	conserved hypothetical protein
+CHR264	HVO_1781	1647961	1648317	+	356	conserved hypothetical protein
+CHR265	HVO_1785	1651680	1651850	-	170	conserved hypothetical protein
+CHR265	HVO_1786	1651847	1651978	-	131	conserved hypothetical protein
+CHR266	HVO_1793	1659900	1660058	-	158	receiver/sensor box histidine kinase (nonfunctional)
+CHR266	HVO_1793_A	1659530	1659901	-	371	receiver/sensor box histidine kinase (nonfunctional)
+CHR266	HVO_1793_A	1659530	1659901	-	371	receiver/sensor box histidine kinase (nonfunctional)
+CHR266	HVO_1793_A	1659530	1659901	-	371	receiver/sensor box histidine kinase (nonfunctional)
+CHR266	HVO_1793_A	1659530	1659901	-	371	receiver/sensor box histidine kinase (nonfunctional)
+CHR267	HVO_1799	1662369	1663601	-	1232	geranylgeranyl reductase / dolichol omega-reductase
+CHR267	HVO_1800	1663640	1663783	-	143	hypothetical protein
+CHR268	HVO_1805	1668011	1668331	-	320	conserved hypothetical protein
+CHR268	HVO_1806	1668369	1669796	-	1427	conserved hypothetical protein
+CHR269	HVO_1820	1682896	1683264	+	368	UspA domain protein
+CHR269	HVO_1821	1683261	1683815	+	554	GNAT family acetyltransferase Pat2
+CHR270	HVO_1826	1686807	1687244	-	437	conserved hypothetical protein
+CHR270	HVO_1827	1687269	1687670	-	401	30S ribosomal protein S6e
+CHR271	HVO_1834	1695924	1696397	-	473	resolvase (nonfunctional)
+CHR271	HVO_1834_A	1694289	1694480	-	191	resolvase (nonfunctional)
+CHR272	HVO_1837	1697873	1698178	-	305	ISH3-type transposase ISHvo20 (nonfunctional)
+CHR272	HVO_1837_A	1697794	1697868	-	74	ISH3-type transposase ISHvo20 (nonfunctional)
+CHR272	HVO_1837_A	1697794	1697868	-	74	ISH3-type transposase ISHvo20 (nonfunctional)
+CHR273	HVO_1856	1715144	1715734	-	590	conserved hypothetical protein
+CHR273	HVO_1857	1715738	1716100	-	362	probable DNA-binding protein
+CHR274	HVO_1864	1721045	1721830	-	785	molybdopterin synthase catalytic subunit
+CHR274	HVO_1865	1721855	1722199	-	344	conserved hypothetical protein
+CHR275	HVO_1866	1722293	1723006	+	713	uridylate kinase
+CHR275	HVO_1867	1723008	1724675	+	1667	lysine--tRNA ligase
+CHR276	HVO_1873	1730131	1730301	-	170	conserved hypothetical protein
+CHR276	HVO_1874	1730301	1731374	-	1073	probable oxidoreductase (aldo-keto reductase family protein)
+CHR277	HVO_1886	1740018	1740884	-	866	ABC-type transport system ATP-binding protein (probable substrate sulfate/tungstate)
+CHR277	HVO_1887	1740881	1741579	-	698	ABC-type transport system permease protein (probable substrate sulfate/tungstate)
+CHR277	HVO_1888	1741604	1742632	-	1028	ABC-type transport system periplasmic substrate-binding protein (probable substrate sulfate/tungstate)
+CHR278	HVO_1888_A	1742773	1742871	+	98	conserved hypothetical protein
+CHR278	HVO_1889	1742864	1743340	+	476	conserved hypothetical protein
+CHR279	HVO_1890	1743400	1743573	-	173	conserved hypothetical protein
+CHR279	HVO_1891	1743570	1743746	-	176	conserved hypothetical protein
+CHR280	HVO_1895	1745405	1747063	-	1658	KEOPS complex subunit Kae1/Bud32
+CHR280	HVO_1896	1747097	1747402	-	305	30S ribosomal protein S24e
+CHR281	HVO_1897	1747471	1748010	-	539	UPF0218 family protein
+CHR281	HVO_1898	1748024	1748221	-	197	transcription elongation factor Spt4
+CHR281	HVO_1899	1748221	1748793	-	572	DNA-directed RNA polymerase subunit E
+CHR281	HVO_1900	1748801	1749190	-	389	DUF188 family protein
+CHR281	HVO_1901	1749192	1750427	-	1235	translation initiation factor aIF-2 gamma subunit
+CHR282	HVO_1904	1752587	1752799	-	212	conserved hypothetical protein
+CHR282	HVO_1905	1752796	1753620	-	824	beta-lactamase domain protein
+CHR283	HVO_1909	1758755	1759087	+	332	molybdenum cofactor guanylyltransferase (nonfunctional)
+CHR283	HVO_1909_A	1759090	1759386	+	296	molybdenum cofactor guanylyltransferase (nonfunctional)
+CHR284	HVO_1911	1759649	1760770	+	1121	nitrite reductase (ferredoxin) (nonfunctional)
+CHR284	HVO_1911_A	1760773	1761402	+	629	nitrite reductase (ferredoxin) (nonfunctional)
+CHR284	HVO_1913	1761405	1761608	+	203	hypothetical protein
+CHR285	HVO_1919	1768353	1768697	+	344	conserved hypothetical protein
+CHR285	HVO_1920	1768729	1770297	+	1568	transport protein (probable substrate dicarboxylate)
+CHR286	HVO_1933	1781067	1781150	-	83	DUF3179 family protein (nonfunctional)
+CHR286	HVO_1933_A	1780813	1781067	-	254	DUF3179 family protein (nonfunctional)
+CHR287	HVO_1939	1785835	1787526	-	1691	DNA mismatch repair protein MutL
+CHR287	HVO_1940	1787523	1790288	-	2765	DNA mismatch repair protein MutS
+CHR288	HVO_1941	1790495	1791451	+	956	AAA-type ATPase (MoxR subfamily)
+CHR288	HVO_1942	1791457	1792485	+	1028	conserved hypothetical protein
+CHR288	HVO_1943	1792482	1794722	+	2240	endoisopeptidase/DUF4129 domain protein
+CHR289	HVO_1947	1797762	1798127	-	365	rhodanese domain protein
+CHR289	HVO_1948	1798128	1798691	-	563	NUDIX family hydrolase
+CHR289	HVO_1949	1798688	1799209	-	521	conserved hypothetical protein
+CHR289	HVO_1950	1799234	1799752	-	518	conserved hypothetical protein
+CHR290	HVO_1953	1801414	1803762	-	2348	receiver/sensor/bat box HTH-10 family transcription regulator (nonfunctional)
+CHR290	HVO_1953_A	1800526	1801413	-	887	receiver/sensor/bat box HTH-10 family transcription regulator (nonfunctional)
+CHR291	HVO_1964	1813650	1813895	+	245	PRC domain protein
+CHR291	HVO_1965	1813914	1814372	+	458	rRNA maturation endonuclease Nob1
+CHR292	HVO_1969	1817248	1817931	-	683	conserved hypothetical protein
+CHR292	HVO_1970	1817928	1818632	-	704	PHP domain protein
+CHR292	HVO_1971	1818629	1819327	-	698	CDP-alcohol 1-archaetidyltransferase
+CHR293	HVO_1975	1821227	1822090	+	863	protein-export membrane protein SecF
+CHR293	HVO_1976	1822087	1823661	+	1574	protein-export membrane protein SecD
+CHR294	HVO_1982	1828584	1828856	-	272	DUF4112 family protein (nonfunctional)
+CHR294	HVO_1982_A	1828262	1828585	-	323	DUF4112 family protein (nonfunctional)
+CHR295	HVO_1983	1829072	1830373	-	1301	malate synthase
+CHR295	HVO_1984	1830366	1831403	-	1037	isocitrate lyase
+CHR296	HVO_1985	1832000	1832953	+	953	ABC-type transport system ATP-binding protein
+CHR296	HVO_1986	1832950	1833735	+	785	ABC-type transport system permease protein
+CHR297	HVO_1987	1833881	1834780	+	899	signal peptide peptidase SppA
+CHR297	HVO_1988	1834767	1835816	+	1049	conserved hypothetical protein
+CHR298	HVO_1999	1844851	1846359	-	1508	transducer protein Htr7
+CHR298	HVO_2000	1846356	1846637	-	281	conserved hypothetical protein
+CHR299	HVO_2030	1872299	1872502	+	203	receiver/sensor box histidine kinase (nonfunctional)
+CHR299	HVO_2030_A	1872503	1874422	+	1919	receiver/sensor box histidine kinase (nonfunctional)
+CHR299	HVO_2030_A	1872503	1874422	+	1919	receiver/sensor box histidine kinase (nonfunctional)
+CHR300	HVO_2032	1876480	1878048	+	1568	ABC-type transport system ATP-binding protein (probable substrate sugar)
+CHR300	HVO_2033	1878045	1879175	+	1130	ABC-type transport system permease protein (probable substrate sugar)
+CHR300	HVO_2034	1879172	1880227	+	1055	ABC-type transport system permease protein (probable substrate sugar)
+CHR301	HVO_2047	1893837	1894727	+	890	conserved hypothetical protein
+CHR301	HVO_2048	1894729	1895808	+	1079	low-salt glycan biosynthesis hexosyltransferase Agl9
+CHR302	HVO_2059	1908182	1909114	+	932	dTDP-glucose 4%2C6-dehydratase
+CHR302	HVO_2060	1909115	1909585	+	470	low-salt glycan biosynthesis protein Agl8
+CHR303	HVO_2069	1917415	1919934	-	2519	RND superfamily permease
+CHR303	HVO_2070	1919938	1921572	-	1634	conserved hypothetical protein
+CHR304	HVO_2076	1929916	1930821	+	905	conserved hypothetical protein (nonfunctional)
+CHR304	HVO_2077	1932315	1932884	+	569	conserved hypothetical protein (nonfunctional)
+CHR305	HVO_2079	1933890	1936142	-	2252	RND superfamily permease
+CHR305	HVO_2080	1936171	1937793	-	1622	conserved hypothetical protein
+CHR306	HVO_2082	1941436	1942626	+	1190	conserved hypothetical protein
+CHR306	HVO_2083	1942628	1943305	+	677	ABC-type transport system ATP-binding protein (probable substrate macrolides)
+CHR306	HVO_2084	1943302	1944444	+	1142	ABC-type transport system permease protein (probable substrate macrolides)
+CHR307	HVO_2100	1964595	1964771	-	176	hypothetical protein
+CHR307	HVO_2101	1964788	1965069	-	281	phosphocarrier protein HPr
+CHR308	HVO_2105	1967896	1968573	-	677	triosephosphate isomerase
+CHR308	HVO_2106	1968602	1969378	-	776	DeoC family aldolase
+CHR308	HVO_2107	1969381	1969806	-	425	UPF0047 family protein
+CHR309	HVO_2111	1974142	1975152	-	1010	4-hydroxythreonine-4-phosphate dehydrogenase
+CHR309	HVO_2112	1975149	1976387	-	1238	DUF1537 family protein
+CHR310	HVO_2116	1980207	1981151	+	944	ABC-type transport system permease protein (probable substrate sugar)
+CHR310	HVO_2117	1981148	1982068	+	920	ABC-type transport system permease protein (probable substrate sugar)
+CHR311	HVO_2118	1982189	1983292	+	1103	ABC-type transport system ATP-binding protein (probable substrate sugar)
+CHR311	HVO_2119	1983304	1984137	+	833	conserved hypothetical protein
+CHR312	HVO_2121	1985891	1986100	-	209	conserved hypothetical protein
+CHR312	HVO_2122	1986097	1987203	-	1106	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CHR312	HVO_2123	1987200	1988276	-	1076	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CHR312	HVO_2124	1988273	1989277	-	1004	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR312	HVO_2125	1989279	1990238	-	959	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR313	HVO_2128	1993640	1994896	+	1256	amidase (hydantoinase/carbamoylase family)
+CHR313	HVO_2129	1994893	1995492	+	599	hypothetical protein
+CHR313	HVO_2130	1995516	1996334	+	818	IclR family transcription regulator
+CHR314	HVO_2163	2033868	2034617	+	749	ABC-type transport system ATP-binding protein
+CHR314	HVO_2164	2034610	2035845	+	1235	ABC-type transport system permease protein
+CHR314	HVO_2165	2035838	2037127	+	1289	ABC-type transport system permease protein
+CHR315	HVO_2166	2037202	2037477	+	275	conserved hypothetical protein
+CHR315	HVO_2167	2037478	2038389	+	911	conserved hypothetical protein
+CHR316	HVO_2169	2039493	2040533	-	1040	conserved hypothetical protein
+CHR316	HVO_2170	2040530	2041024	-	494	conserved hypothetical protein
+CHR316	HVO_2171	2041043	2042470	-	1427	DUF58 family protein
+CHR317	HVO_2174	2046170	2046817	+	647	conserved hypothetical protein
+CHR317	HVO_2175	2046853	2048817	+	1964	Smc-like protein Sph3
+CHR318	HVO_2177	2049729	2050007	+	278	ubiquitin-like modifier protein SAMP3
+CHR318	HVO_2178	2050009	2050266	+	257	ubiquitin-like protein
+CHR318	HVO_2179	2050263	2050733	+	470	conserved hypothetical protein
+CHR318	HVO_2180	2050770	2051465	+	695	ABC-type transport system permease protein
+CHR318	HVO_2181	2051466	2051804	+	338	ABC-type transport system accessory transmembrane protein
+CHR319	HVO_2188	2057607	2058281	-	674	phosphoribosylformylglycinamidine synthase subunit PurQ
+CHR319	HVO_2189	2058283	2058534	-	251	phosphoribosylformylglycinamidine synthase subunit PurS
+CHR320	HVO_2194	2062859	2063617	+	758	Sir2-type NAD-dependent protein deacetylase
+CHR320	HVO_2195	2063627	2065300	+	1673	sensor box histidine kinase (nonfunctional)
+CHR320	HVO_2195_A	2065300	2065344	+	44	sensor box histidine kinase (nonfunctional)
+CHR320	HVO_2195_A	2065300	2065344	+	44	sensor box histidine kinase (nonfunctional)
+CHR321	HVO_2198	2066232	2067599	+	1367	7%2C8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 2
+CHR321	HVO_2199	2067601	2068149	+	548	DUF457 family protein
+CHR322	HVO_2202	2070415	2071035	-	620	2-phospho-L-lactate guanylyltransferase
+CHR322	HVO_2203	2071042	2071836	-	794	conserved hypothetical protein
+CHR322	HVO_2204	2071805	2072992	-	1187	FtsZ family protein CetZ%2C type III
+CHR323	HVO_2211	2077064	2077747	+	683	TrkA domain protein
+CHR323	HVO_2212	2077750	2077986	+	236	Lrp/AsnC family transcription regulator
+CHR324	HVO_2216	2081767	2081925	-	158	tetratricopeptide repeat protein (nonfunctional)
+CHR324	HVO_2216_A	2081654	2081767	-	113	tetratricopeptide repeat protein (nonfunctional)
+CHR325	HVO_2218	2082166	2082510	-	344	conserved hypothetical protein
+CHR325	HVO_2219	2082520	2082735	-	215	hypothetical protein
+CHR326	HVO_2230	2094572	2095312	+	740	HAD superfamily hydrolase
+CHR326	HVO_2231	2095309	2096085	+	776	probable oxidoreductase (aldo-keto reductase family protein)
+CHR327	HVO_2232	2096172	2096876	+	704	KaiC-type circadian clock protein CirD
+CHR327	HVO_2233	2096887	2097303	+	416	conserved hypothetical protein
+CHR328	HVO_2235	2097818	2098270	-	452	conserved hypothetical protein
+CHR328	HVO_2236	2098267	2098575	-	308	ArsR family transcription regulator
+CHR329	HVO_2245	2103547	2103786	-	239	conserved hypothetical protein
+CHR329	HVO_2246	2103783	2103971	-	188	hypothetical protein
+CHR329	HVO_2247	2103968	2104810	-	842	mvp-type potassium channel superfamily protein
+CHR330	HVO_2258	2117186	2117695	+	509	conserved hypothetical protein
+CHR330	HVO_2259	2117697	2118632	+	935	XerC/D-like integrase
+CHR330	HVO_2260	2118646	2118960	+	314	hypothetical protein
+CHR331	HVO_2261	2119332	2119541	+	209	hypothetical protein
+CHR331	HVO_2262	2119545	2119757	+	212	hypothetical protein
+CHR332	HVO_2265	2122933	2123286	+	353	conserved hypothetical protein
+CHR332	HVO_2266	2123279	2124760	+	1481	conserved hypothetical protein
+CHR332	HVO_2267	2124744	2125901	+	1157	conserved hypothetical protein
+CHR333	HVO_2269	2126758	2128980	+	2222	type I site-specific deoxyribonuclease subunit RmeR
+CHR333	HVO_2270	2128977	2130371	+	1394	type I restriction-modification system DNA-methyltransferase RmeM
+CHR333	HVO_2271	2130371	2131603	+	1232	type I site-specific deoxyribonuclease subunit RmeS
+CHR334	HVO_2272	2131833	2132333	+	500	conserved hypothetical protein
+CHR334	HVO_2273	2132333	2133265	+	932	XerC/D-like integrase
+CHR334	HVO_2274	2133277	2133417	+	140	hypothetical protein
+CHR335	HVO_2277	2140967	2141383	-	416	conserved hypothetical protein
+CHR335	HVO_2278	2141380	2143299	-	1919	conserved hypothetical protein
+CHR335	HVO_2279	2143296	2144267	-	971	conserved hypothetical protein
+CHR335	HVO_2280	2144264	2144617	-	353	hypothetical protein
+CHR335	HVO_2281	2144614	2146380	-	1766	conserved hypothetical protein
+CHR335	HVO_2282	2146377	2146628	-	251	conserved hypothetical protein
+CHR335	HVO_2283	2146625	2147704	-	1079	conserved hypothetical protein
+CHR335	HVO_2284	2147711	2148052	-	341	conserved hypothetical protein
+CHR336	HVO_2299	2168213	2169028	-	815	agmatinase
+CHR336	HVO_2300	2169044	2169418	-	374	translation initiation factor aIF-5A
+CHR337	HVO_2302	2169999	2171675	-	1676	UbiB family protein
+CHR337	HVO_2303	2171684	2172052	-	368	Hsp20-type molecular chaperone
+CHR338	HVO_2304	2172194	2173414	+	1220	molybdopterin molybdenumtransferase
+CHR338	HVO_2305	2173411	2175315	+	1904	molybdopterin molybdenumtransferase
+CHR339	HVO_2308	2176949	2177344	-	395	conserved hypothetical protein
+CHR339	HVO_2309	2177341	2177616	-	275	probable pterin-4-alpha-carbinolamine dehydratase
+CHR340	HVO_2311	2178257	2179642	-	1385	glutamyl-tRNA reductase
+CHR340	HVO_2312	2179639	2180286	-	647	precorrin-2 oxidase / ferrochelatase
+CHR340	HVO_2313	2180288	2181349	-	1061	siroheme decarboxylase AhbB
+CHR341	HVO_2319	2185692	2187005	+	1313	DUF92 family protein
+CHR341	HVO_2320	2187002	2187457	+	455	GNAT family acetyltransferase
+CHR342	HVO_2323	2190129	2190344	+	215	DUF3311 family protein
+CHR342	HVO_2324	2190344	2191843	+	1499	SSSF family transport protein
+CHR343	HVO_2327	2192908	2193705	+	797	YcgG family protein
+CHR343	HVO_2328	2193734	2194300	+	566	isochorismatase family protein
+CHR344	HVO_2341	2207083	2207742	+	659	TetR family transcription regulator
+CHR344	HVO_2342	2207739	2209223	+	1484	MATE efflux family protein
+CHR439	HVO_2351s	2218063	2218169	+	106	NA
+CHR439	HVO_2351s2	2218202	2218293	+	91	NA
+CHR345	HVO_2376	2240557	2241516	+	959	ABC-type transport system permease protein (probable substrate phosphate)
+CHR345	HVO_2377	2241518	2243146	+	1628	ABC-type transport system permease protein (probable substrate phosphate)
+CHR345	HVO_2378	2243156	2244046	+	890	ABC-type transport system ATP-binding protein (probable substrate phosphate)
+CHR346	HVO_2385	2252319	2254595	+	2276	type IV pilus biogenesis complex ATPase subunit
+CHR346	HVO_2386	2254585	2256711	+	2126	type IV pilus biogenesis complex membrane subunit
+CHR346	HVO_2387	2256716	2258887	+	2171	conserved hypothetical protein
+CHR346	HVO_2388	2258891	2260621	+	1730	conserved hypothetical protein
+CHR440	HVO_2394s2	2264510	2264538	+	28	NA
+CHR440	HVO_2394s3	2264544	2264625	+	81	NA
+CHR347	HVO_2395	2264658	2265191	-	533	ATP:cob(I)alamin adenosyltransferase
+CHR347	HVO_2396	2265188	2265427	-	239	glutaredoxin
+CHR348	HVO_2397	2265616	2266722	+	1106	ABC-type transport system periplasmic substrate-binding protein (probable substrate zinc)
+CHR348	HVO_2398	2266719	2267588	+	869	ABC-type transport system ATP-binding protein (probable substrate zinc)
+CHR348	HVO_2399	2267585	2268583	+	998	ABC-type transport system permease protein (probable substrate zinc)
+CHR349	HVO_2401	2268958	2270379	-	1421	glycine cleavage system protein P beta subunit
+CHR349	HVO_2402	2270379	2271722	-	1343	glycine cleavage system protein P alpha subunit
+CHR349	HVO_2403	2271724	2272104	-	380	glycine cleavage system protein H
+CHR349	HVO_2404	2272107	2273198	-	1091	glycine cleavage system protein T
+CHR350	HVO_2405	2273429	2274229	-	800	ABC-type transport system ATP-binding protein (probable substrate nickel)
+CHR350	HVO_2406	2274217	2275029	-	812	ABC-type transport system permease protein (probable substrate nickel)
+CHR350	HVO_2407	2275026	2275325	-	299	ABC-type transport system protein NikN (probable substrate nickel)
+CHR350	HVO_2408	2275322	2275978	-	656	ABC-type transport system permease protein (probable substrate nickel)
+CHR351	HVO_2410	2276649	2279081	-	2432	UPF0753 family protein
+CHR351	HVO_2411	2279071	2280555	-	1484	Mrp-type sodium/proton antiporter system subunit D2
+CHR352	HVO_2430	2297996	2298724	-	728	ABC-type transport system ATP-binding protein (probable substrate glutamine/glutamate/polar amino acids)
+CHR352	HVO_2431	2298721	2299551	-	830	ABC-type transport system permease protein (probable substrate glutamine/glutamate/polar amino acids)
+CHR353	HVO_2440	2308617	2308910	+	293	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide) (nonfunctional)
+CHR353	HVO_2440_B	2309012	2309977	+	965	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide) (nonfunctional)
+CHR354	HVO_2441	2310076	2310135	+	59	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide) (nonfunctional)
+CHR354	HVO_2441_A	2310132	2311073	+	941	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide) (nonfunctional)
+CHR354	HVO_2442	2311080	2311571	+	491	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide) (nonfunctional)
+CHR354	HVO_2442_A	2311570	2312142	+	572	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide) (nonfunctional)
+CHR354	HVO_2443	2312144	2313334	+	1190	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CHR354	HVO_2444	2313327	2314193	+	866	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide) (nonfunctional)
+CHR354	HVO_2444_A	2314196	2314654	+	458	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide) (nonfunctional)
+CHR355	HVO_2450	2318839	2319306	-	467	pilin PilA
+CHR355	HVO_2451	2319307	2319735	-	428	pilin PilA
+CHR356	HVO_2453	2324131	2324745	-	614	anthranilate synthase component 2
+CHR356	HVO_2454	2324742	2326316	-	1574	anthranilate synthase component 1
+CHR356	HVO_2455	2326313	2326978	-	665	N-(5'-phosphoribosyl)anthranilate isomerase
+CHR356	HVO_2456	2326980	2327975	-	995	anthranilate phosphoribosyltransferase
+CHR357	HVO_2461	2329410	2329847	-	437	CBS domain protein
+CHR357	HVO_2462	2329849	2332152	-	2303	transducer protein Htr37
+CHR358	HVO_2464	2332664	2333533	-	869	succinate--CoA ligase (ADP-forming) alpha subunit
+CHR358	HVO_2465	2333530	2334675	-	1145	succinate--CoA ligase (ADP-forming) beta subunit
+CHR359	HVO_2471	2341670	2343220	+	1550	propionyl-CoA carboxylase carboxyltransferase component
+CHR359	HVO_2472	2343217	2343486	+	269	conserved hypothetical protein
+CHR360	HVO_2475	2344719	2344907	-	188	30S ribosomal protein S17e
+CHR360	HVO_2476	2344932	2345621	-	689	DUF447 family protein
+CHR360	HVO_2477	2345618	2346478	-	860	triphosphoribosyl-dephospho-CoA synthase
+CHR360	HVO_2478	2346478	2347269	-	791	putative dihydropyrimidine dehydrogenase
+CHR360	HVO_2479	2347269	2348261	-	992	2-phospho-L-lactate transferase
+CHR361	HVO_2488	2357212	2357532	+	320	HPP domain protein (nonfunctional)
+CHR361	HVO_2488_A	2357537	2357734	+	197	HPP domain protein (nonfunctional)
+CHR362	HVO_2493	2359296	2360165	-	869	tRNA/rRNA pseudouridine synthase Cbf5
+CHR362	HVO_2494	2360168	2360746	-	578	cytidylate kinase
+CHR363	HVO_2499	2364709	2365179	+	470	UspA domain protein
+CHR363	HVO_2500	2365176	2367422	+	2246	transport protein (probable substrate cationic amino acids)
+CHR364	HVO_2505	2372097	2372516	-	419	metalloprotease JAMM1%2C desampylating
+CHR364	HVO_2506	2372503	2373072	-	569	isopentenyl-diphosphate delta-isomerase%2C type I
+CHR365	HVO_2510	2376033	2376947	-	914	GNAT family acetyltransferase
+CHR365	HVO_2511	2376952	2378199	-	1247	glutamyl-tRNA(Gln) amidotransferase subunit D
+CHR366	HVO_2526	2392420	2393301	-	881	probable carotenoid biosynthesis protein
+CHR366	HVO_2527	2393326	2394231	-	905	lycopene elongase
+CHR366	HVO_2528	2394228	2395730	-	1502	phytoene dehydrogenase (phytoene desaturase)
+CHR367	HVO_2532	2398798	2399151	-	353	conserved hypothetical protein
+CHR367	HVO_2533	2399148	2400158	-	1010	conserved hypothetical protein
+CHR368	HVO_2538	2403719	2404660	-	941	alpha/beta hydrolase fold protein
+CHR368	HVO_2539	2404657	2405013	-	356	conserved hypothetical protein
+CHR369	HVO_2541	2406014	2407483	-	1469	protein translocase subunit SecY
+CHR369	HVO_2542	2407487	2407984	-	497	50S ribosomal protein L15
+CHR369	HVO_2543	2407981	2408445	-	464	50S ribosomal protein L30
+CHR369	HVO_2544	2408445	2409089	-	644	30S ribosomal protein S5
+CHR369	HVO_2545	2409086	2409640	-	554	50S ribosomal protein L18
+CHR369	HVO_2546	2409640	2410095	-	455	50S ribosomal protein L19e
+CHR369	HVO_2547	2410095	2410802	-	707	50S ribosomal protein L32e
+CHR369	HVO_2548	2410802	2411338	-	536	50S ribosomal protein L6
+CHR369	HVO_2549	2411343	2411735	-	392	30S ribosomal protein S8
+CHR369	HVO_2550	2411739	2411915	-	176	30S ribosomal protein S14
+CHR369	HVO_2551	2411912	2412430	-	518	50S ribosomal protein L5
+CHR369	HVO_2552	2412427	2413170	-	743	30S ribosomal protein S4e
+CHR369	HVO_2553	2413167	2413523	-	356	50S ribosomal protein L24
+CHR369	HVO_2554	2413525	2413923	-	398	50S ribosomal protein L14
+CHR369	HVO_2555	2413923	2414267	-	344	30S ribosomal protein S17
+CHR369	HVO_2556	2414258	2414689	-	431	ribonuclease P protein component 1
+CHR369	HVO_2557	2414689	2414901	-	212	50S ribosomal protein L29
+CHR369	HVO_2558	2414902	2415816	-	914	30S ribosomal protein S3
+CHR369	HVO_2559	2415816	2416277	-	461	50S ribosomal protein L22
+CHR369	HVO_2560	2416281	2416703	-	422	30S ribosomal protein S19
+CHR369	HVO_2561	2416706	2417431	-	725	50S ribosomal protein L2
+CHR369	HVO_2562	2417434	2417685	-	251	50S ribosomal protein L23
+CHR369	HVO_2563	2417682	2418428	-	746	50S ribosomal protein L4
+CHR369	HVO_2564	2418432	2419448	-	1016	50S ribosomal protein L3
+CHR369	HVO_2565	2419453	2420295	-	842	DUF171 family protein
+CHR438	HVO_2566	2420585	2420655	+	70	NA
+CHR438	HVO_2567	2420668	2420738	+	70	NA
+CHR370	HVO_2570	2422082	2422366	-	284	small CPxCG-related zinc finger protein
+CHR370	HVO_2571	2422406	2423464	-	1058	UPF0761 family protein
+CHR371	HVO_2573	2424275	2425207	+	932	probable methenyltetrahydrofolate cyclohydrolase
+CHR371	HVO_2574	2425204	2425695	+	491	conserved hypothetical protein
+CHR372	HVO_2579	2430345	2431151	-	806	nicotinate-nucleotide pyrophosphorylase (carboxylating)
+CHR372	HVO_2580	2431138	2432751	-	1613	L-aspartate oxidase
+CHR372	HVO_2581	2432748	2433905	-	1157	quinolinate synthase A
+CHR373	HVO_2595	2444152	2445213	+	1061	2-oxoacid dehydrogenase E1 component alpha subunit
+CHR373	HVO_2596	2445213	2446253	+	1040	2-oxoacid dehydrogenase E1 component beta subunit
+CHR373	HVO_2597	2446285	2446545	+	260	lipoyl-binding domain protein
+CHR374	HVO_2606	2455085	2456398	+	1313	PQQ repeat protein
+CHR374	HVO_2607	2456395	2457615	+	1220	PQQ repeat protein
+CHR375	HVO_2609	2457993	2458664	-	671	homolog to sodium/calcium antiporter (nonfunctional)
+CHR375	HVO_2609_A	2457666	2457992	-	326	homolog to sodium/calcium antiporter (nonfunctional)
+CHR376	HVO_2614	2462016	2462744	+	728	uridine phosphorylase
+CHR376	HVO_2615	2462754	2464178	+	1424	conserved hypothetical protein
+CHR377	HVO_2617	2465565	2466776	+	1211	TrkA-C domain protein
+CHR377	HVO_2618	2466776	2468281	+	1505	TrkA-C domain protein
+CHR377	HVO_2619	2468305	2468568	+	263	ubiquitin-like modifier protein SAMP1
+CHR378	HVO_2624	2474617	2476266	+	1649	CTP synthase
+CHR378	HVO_2625	2476266	2477183	+	917	GMP synthase (glutamine-hydrolyzing) subunit B
+CHR378	HVO_2626	2477180	2477500	+	320	conserved hypothetical protein
+CHR379	HVO_2630	2480448	2481356	+	908	conserved hypothetical protein
+CHR379	HVO_2631	2481372	2481917	+	545	conserved hypothetical protein
+CHR380	HVO_2638	2487257	2488294	-	1037	homolog to dipeptide epimerase
+CHR380	HVO_2639	2488295	2489320	-	1025	DUF1611 family protein
+CHR381	HVO_2642	2491040	2491360	-	320	conserved hypothetical protein
+CHR381	HVO_2643	2491350	2492390	-	1040	NADPH:quinone reductase
+CHR382	HVO_2653	2501833	2502309	-	476	conserved hypothetical protein
+CHR382	HVO_2654	2502347	2503771	-	1424	homolog to respiratory nitrate reductase b-type cytochrome subunit
+CHR382	HVO_2655	2503773	2504426	-	653	Rieske-type [2Fe-2S] iron-sulfur protein
+CHR382	HVO_2656	2504441	2505040	-	599	conserved hypothetical protein
+CHR383	HVO_2666	2514799	2515638	-	839	phosphomethylpyrimidine kinase / phosphomethylpyrimidine phosphate kinase
+CHR383	HVO_2667	2515639	2516535	-	896	hydroxyethylthiazole kinase
+CHR383	HVO_2668	2516532	2517176	-	644	thiamine-phosphate synthase
+CHR384	HVO_2676	2526511	2526876	+	365	HesB/IscA family iron-sulfur cluster assembly accessory protein
+CHR384	HVO_2677	2526916	2527164	+	248	conserved hypothetical protein
+CHR385	HVO_2679	2527654	2528397	+	743	conserved hypothetical protein
+CHR385	HVO_2680	2528394	2529053	+	659	conserved hypothetical protein
+CHR386	HVO_2686	2533589	2533798	+	209	PAC2 family protein (nonfunctional)
+CHR386	HVO_2686_A	2533799	2534329	+	530	PAC2 family protein (nonfunctional)
+CHR387	HVO_2692	2537992	2539179	-	1187	ABC-type transport system ATP-binding protein (probable substrate sugar)
+CHR387	HVO_2693	2539182	2540141	-	959	ABC-type transport system permease protein (probable substrate sugar)
+CHR387	HVO_2694	2540143	2541168	-	1025	ABC-type transport system permease protein (probable substrate sugar)
+CHR388	HVO_2697	2544015	2545172	+	1157	DNA primase small subunit
+CHR388	HVO_2698	2545169	2546164	+	995	DNA replication factor GINS
+CHR388	HVO_2699	2546201	2546659	+	458	homolog to peroxiredoxin
+CHR389	HVO_2700	2546945	2549209	-	2264	AAA-type ATPase (CDC48 subfamily)
+CHR389	HVO_2701	2549210	2549461	-	251	conserved hypothetical protein
+CHR390	HVO_2707	2553361	2554479	-	1118	GFO family oxidoreductase
+CHR390	HVO_2708	2554483	2555451	-	968	YfiH family protein
+CHR391	HVO_2711	2556718	2557830	+	1112	DoxX domain protein
+CHR391	HVO_2712	2557868	2559328	+	1460	tRNA-splicing ligase RtcB
+CHR392	HVO_2717	2562785	2563981	-	1196	alanine--tRNA ligase
+CHR392	HVO_2718	2564017	2564538	-	521	cro/C1 family transcription regulator
+CHR393	HVO_2722	2567777	2567953	-	176	50S ribosomal protein L37e
+CHR393	HVO_2723	2567950	2568180	-	230	RNA-binding protein Lsm
+CHR441	HVO_2723s2	2568508	2568524	+	16	NA
+CHR441	HVO_2723s9	2568379	2568465	+	86	NA
+CHR394	HVO_2724	2568561	2569913	+	1352	ribonuclease J
+CHR394	HVO_2725	2569913	2570959	+	1046	bifunctional short chain isoprenyl diphosphate synthase
+CHR395	HVO_2730	2574770	2575651	+	881	electron transfer flavoprotein beta subunit
+CHR395	HVO_2731	2575654	2577402	+	1748	electron transfer flavoprotein alpha subunit
+CHR395	HVO_2732	2577399	2579063	+	1664	FixC family protein
+CHR395	HVO_2733	2579077	2579517	+	440	conserved hypothetical protein
+CHR396	HVO_2737	2583344	2583706	+	362	50S ribosomal protein L8e
+CHR396	HVO_2738	2583713	2583937	+	224	30S ribosomal protein S28e
+CHR396	HVO_2739	2583940	2584140	+	200	50S ribosomal protein L24e
+CHR396	HVO_2740	2584141	2584605	+	464	nucleoside-diphosphate kinase
+CHR397	HVO_2742	2584975	2586048	-	1073	5-methyltetrahydropteroyltriglutamate--homocystei ne S-methyltransferase (methionine synthase II)
+CHR397	HVO_2743	2586045	2587055	-	1010	5-methyltetrahydropteroyltriglutamate--homocystei ne S-methyltransferase (methionine synthase II)
+CHR398	HVO_2744	2587115	2587711	-	596	protein N5-glutamine methyltransferase
+CHR398	HVO_2745	2587708	2588901	-	1193	mechanosensitive channel protein MscS
+CHR398	HVO_2746	2588905	2589768	-	863	ribosome biogenesis protein KsgA%2C 16S rRNA-methylating
+CHR399	HVO_2748	2590458	2590814	-	356	DNA-directed RNA polymerase subunit F
+CHR399	HVO_2749	2590818	2591108	-	290	50S ribosomal protein L21e
+CHR400	HVO_2752	2592836	2593102	-	266	translation elongation factor aEF-1 beta subunit
+CHR400	HVO_2753	2593105	2593284	-	179	small CPxCG-related zinc finger protein
+CHR401	HVO_2755	2594860	2595201	-	341	50S ribosomal protein L12
+CHR401	HVO_2756	2595223	2596269	-	1046	50S ribosomal protein L10
+CHR401	HVO_2757	2596266	2596904	-	638	50S ribosomal protein L1
+CHR402	HVO_2761	2599558	2600661	+	1103	mevalonate kinase
+CHR402	HVO_2762	2600658	2601404	+	746	isopentenyl phosphate kinase
+CHR403	HVO_2764	2602293	2603273	+	980	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR403	HVO_2765	2603270	2604394	+	1124	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CHR404	HVO_2768	2610067	2610201	+	134	conserved hypothetical protein (nonfunctional)
+CHR404	HVO_2768_A	2610198	2610644	+	446	conserved hypothetical protein (nonfunctional)
+CHR405	HVO_2773	2614266	2615048	-	782	30S ribosomal protein S2
+CHR405	HVO_2774	2615045	2616244	-	1199	enolase
+CHR405	HVO_2775	2616249	2616425	-	176	DNA-directed RNA polymerase subunit K
+CHR405	HVO_2776	2616422	2616616	-	194	DNA-directed RNA polymerase subunit N
+CHR405	HVO_2777	2616629	2617027	-	398	30S ribosomal protein S9
+CHR405	HVO_2778	2617021	2617458	-	437	50S ribosomal protein L13
+CHR405	HVO_2779	2617455	2617805	-	350	50S ribosomal protein L18e
+CHR406	HVO_2781	2618061	2618840	-	779	DNA-directed RNA polymerase subunit D
+CHR406	HVO_2782	2618847	2619239	-	392	30S ribosomal protein S11
+CHR406	HVO_2783	2619236	2619763	-	527	30S ribosomal protein S4
+CHR406	HVO_2784	2619760	2620263	-	503	30S ribosomal protein S13
+CHR407	HVO_2790	2623372	2624412	+	1040	Fe-S cluster carrier protein ApbC
+CHR407	HVO_2791	2624409	2624738	+	329	conserved hypothetical protein
+CHR408	HVO_2800	2631348	2632109	-	761	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+CHR408	HVO_2801	2632106	2632969	-	863	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+CHR408	HVO_2802	2632962	2634299	-	1337	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+CHR408	HVO_2803	2634296	2635402	-	1106	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+CHR409	HVO_2809	2639676	2640557	-	881	succinate dehydrogenase subunit B
+CHR409	HVO_2810	2640557	2640928	-	371	succinate dehydrogenase subunit D
+CHR409	HVO_2811	2640928	2641323	-	395	succinate dehydrogenase subunit C
+CHR410	HVO_2822	2655111	2655413	+	302	hypothetical protein
+CHR410	HVO_2823	2655443	2655793	+	350	conserved hypothetical protein
+CHR410	HVO_2824	2655783	2656568	+	785	conserved hypothetical protein
+CHR411	HVO_2825	2656634	2657452	+	818	conserved hypothetical protein
+CHR411	HVO_2826	2657449	2658690	+	1241	conserved hypothetical protein
+CHR411	HVO_2827	2658680	2662204	+	3524	UvrD/REP family helicase
+CHR412	HVO_2832	2667912	2668163	-	251	conserved hypothetical protein (nonfunctional)
+CHR412	HVO_2832_A	2667268	2667912	-	644	conserved hypothetical protein (nonfunctional)
+CHR413	HVO_2845	2682183	2682731	-	548	conserved hypothetical protein
+CHR413	HVO_2846	2682740	2684749	-	2009	SpoVR family protein
+CHR413	HVO_2847	2684746	2686065	-	1319	UPF0229 family protein
+CHR413	HVO_2848	2686056	2688329	-	2273	probable PrkA-type serine/threonine protein kinase
+CHR413	HVO_2849	2688332	2690404	-	2072	probable PrkA-type serine/threonine protein kinase
+CHR414	HVO_2850	2690938	2691318	+	380	conserved hypothetical protein
+CHR414	HVO_2851	2691343	2691792	+	449	UPF0179 family protein
+CHR415	HVO_2863	2701945	2702244	+	299	DUF211 family protein
+CHR415	HVO_2864	2702244	2702813	+	569	DUF125 family protein
+CHR416	HVO_2873	2710411	2711391	-	980	flap endonuclease Fen1
+CHR416	HVO_2874	2711419	2712036	-	617	GNAT family acetyltransferase
+CHR417	HVO_2875	2712095	2712676	+	581	probable S-adenosylmethionine-dependent methyltransferase
+CHR417	HVO_2876	2712698	2713114	+	416	DUF3054 family protein
+CHR418	HVO_2880	2716454	2717524	-	1070	mRNA surveillance protein pelota
+CHR418	HVO_2881	2717559	2718326	-	767	DUF4013 family protein
+CHR419	HVO_2890	2730421	2731023	-	602	DUF649 family protein
+CHR419	HVO_2891	2731032	2731619	-	587	thymidine kinase
+CHR420	HVO_2894	2732769	2733413	-	644	HTH-10 family transcription regulator
+CHR420	HVO_2895	2733448	2734452	-	1004	alpha/beta hydrolase fold protein
+CHR421	HVO_2903	2740705	2741232	-	527	conserved hypothetical protein
+CHR421	HVO_2904	2741234	2742187	-	953	HtpX-like protease
+CHR422	HVO_2906	2742803	2743630	-	827	tRNA (cytidine/uridine-2'-O-)-methyltransferase
+CHR422	HVO_2907	2743627	2744214	-	587	conserved hypothetical protein
+CHR423	HVO_2918	2753026	2754024	+	998	thymidylate synthase
+CHR423	HVO_2919	2754021	2754605	+	584	dihydrofolate reductase
+CHR423	HVO_2920	2754598	2754801	+	203	DUF4177 family protein
+CHR424	HVO_2923	2756256	2757005	+	749	proteasome alpha subunit
+CHR424	HVO_2924	2757006	2757896	+	890	MOSC domain protein
+CHR425	HVO_2926	2757995	2758114	+	119	amidohydrolase domain protein (nonfunctional)
+CHR425	HVO_2926_A	2758114	2758377	+	263	amidohydrolase domain protein (nonfunctional)
+CHR425	HVO_2926_A	2758114	2758377	+	263	amidohydrolase domain protein (nonfunctional)
+CHR426	HVO_2933	2764451	2764828	+	377	conserved hypothetical protein
+CHR426	HVO_2934	2764847	2765257	+	410	conserved hypothetical protein
+CHR427	HVO_2947	2779920	2781632	-	1712	phenylalanine--tRNA ligase beta subunit
+CHR427	HVO_2948	2781632	2783131	-	1499	phenylalanine--tRNA ligase alpha subunit
+CHR428	HVO_2951	2785575	2787164	-	1589	tryptophan--tRNA ligase
+CHR428	HVO_2952	2787161	2788180	-	1019	tRNA-splicing endonuclease
+CHR429	HVO_2958	2794100	2795206	+	1106	2-oxo-3-methylvalerate dehydrogenase E1 component alpha subunit
+CHR429	HVO_2959	2795203	2796186	+	983	2-oxo-3-methylvalerate dehydrogenase E1 component beta subunit
+CHR429	HVO_2960	2796190	2797755	+	1565	dihydrolipoamide S-acyltransferase
+CHR429	HVO_2961	2797755	2799182	+	1427	dihydrolipoyl dehydrogenase
+CHR430	HVO_2962	2799214	2799426	-	212	cro/C1 family transcription regulator
+CHR430	HVO_2963	2799423	2799839	-	416	conserved hypothetical protein
+CHR431	HVO_2974	2807898	2808278	+	380	cupin 2 barrel domain protein
+CHR431	HVO_2975	2808275	2808928	+	653	conserved hypothetical protein
+CHR432	HVO_2977	2810921	2811886	-	965	ArsA family ATPase
+CHR432	HVO_2978	2811888	2812184	-	296	conserved hypothetical protein
+CHR433	HVO_2979	2812286	2813611	+	1325	CobW domain protein
+CHR433	HVO_2980	2813608	2813841	+	233	conserved hypothetical protein
+CHR434	HVO_2993	2822983	2824035	-	1052	prepilin/preflagellin peptidase
+CHR434	HVO_2994	2824060	2824590	-	530	hypothetical protein
+CHR435	HVO_2998	2828360	2829607	-	1247	homoserine O-acetyltransferase
+CHR435	HVO_2999	2829604	2830923	-	1319	O-acetylhomoserine aminocarboxypropyltransferase (methionine synthase)
+CHR436	HVO_3001	2833318	2834241	-	923	ABC-type transport system permease protein
+CHR436	HVO_3002	2834238	2835218	-	980	ABC-type transport system ATP-binding protein
+pHV40	HVO_A0007	6551	7903	+	1352	ISH5-type transposase ISHvo11
+pHV40	HVO_A0007_A	7920	8015	+	95	conserved hypothetical protein (nonfunctional)
+pHV41	HVO_A0007_B	9451	9687	+	236	conserved hypothetical protein (nonfunctional)
+pHV41	HVO_A0008	8150	9448	+	1298	IS1341-type transposase ISHvo19
+pHV42	HVO_A0010	10786	11598	-	812	DUF2204 family protein
+pHV42	HVO_A0011	11595	12518	-	923	ArsR family transcription regulator
+pHV43	HVO_A0033	30955	31446	+	491	conserved hypothetical protein
+pHV43	HVO_A0034	31450	31815	+	365	conserved hypothetical protein
+pHV44	HVO_A0036	34050	34475	+	425	ArsR family transcription regulator
+pHV44	HVO_A0037	34478	34780	+	302	conserved hypothetical protein
+pHV45	HVO_A0044	40248	40484	-	236	conserved hypothetical protein
+pHV45	HVO_A0045	40485	41372	-	887	HtpX-like protease
+pHV46	HVO_A0051	45861	46265	+	404	conserved hypothetical protein
+pHV46	HVO_A0052	46285	46563	+	278	conserved hypothetical protein
+pHV47	HVO_A0054	46903	47589	+	686	conserved hypothetical protein
+pHV47	HVO_A0055	47589	47747	+	158	conserved hypothetical protein
+pHV47	HVO_A0056	47744	48262	+	518	conserved hypothetical protein (nonfunctional)
+pHV47	HVO_A0056_A	48262	48408	+	146	conserved hypothetical protein (nonfunctional)
+pHV47	HVO_A0056_B	48405	48686	+	281	conserved hypothetical protein (nonfunctional)
+pHV48	HVO_A0056_C	50212	50469	+	257	conserved hypothetical protein (nonfunctional)
+pHV48	HVO_A0057	48734	49555	+	821	ISH9-type transposase ISHvo2
+pHV49	HVO_A0065	57789	59942	-	2153	DNA-directed DNA polymerase B2
+pHV49	HVO_A0066	59944	61230	-	1286	IS1341-type transposase
+pHV410	HVO_A0067	61404	61709	-	305	conserved hypothetical protein
+pHV410	HVO_A0068	61712	62656	-	944	conserved hypothetical protein
+pHV411	HVO_A0070	63533	64375	-	842	ribonuclease H domain protein (nonfunctional)
+pHV411	HVO_A0070_A	62930	63532	-	602	ribonuclease H domain protein (nonfunctional)
+pHV412	HVO_A0074	66855	70151	+	3296	AAA-type ATPase domain protein
+pHV412	HVO_A0076	70141	71505	+	1364	conserved hypothetical protein
+pHV413	HVO_A0078	73386	75701	-	2315	SNF2/RAD54 helicase domain protein (nonfunctional)
+pHV413	HVO_A0078_A	71552	71938	-	386	SNF2/RAD54 helicase domain protein (nonfunctional)
+pHV414	HVO_A0083	83529	83906	-	377	Rieske-type iron-sulfur protein (2Fe-2S)
+pHV414	HVO_A0084	83913	85046	-	1133	amidohydrolase domain protein
+pHV415	HVO_A0088	88508	91582	-	3074	FAD-dependent oxidoreductase (GlcD/DLD_GlcF/GlpC domain fusion protein)
+pHV415	HVO_A0089	91575	91754	-	179	small CPxCG-related zinc finger protein
+pHV416	HVO_A0100	106036	106533	-	497	ISHwa16-type transposase ISHvo16
+pHV416	HVO_A0100_A	105533	106036	-	503	ISHwa16-type transposase ISHvo16
+pHV417	HVO_A0107	109523	109765	-	242	conserved hypothetical protein
+pHV417	HVO_A0108	109784	110275	-	491	conserved hypothetical protein
+pHV418	HVO_A0114	113348	113815	-	467	HTH domain protein
+pHV418	HVO_A0115	113796	114104	-	308	conserved hypothetical protein
+pHV419	HVO_A0129	127679	127990	+	311	conserved hypothetical protein
+pHV419	HVO_A0130	127994	128602	+	608	conserved hypothetical protein
+pHV4113	HVO_A0131s	129485	129672	+	187	NA
+pHV4113	HVO_A0131s2	129695	129841	+	146	NA
+pHV420	HVO_A0132	130087	130371	-	284	ISH16-type transposase HfIRS5 (nonfunctional)
+pHV420	HVO_A0132_A	129967	130086	-	119	ISH16-type transposase HfIRS5 (nonfunctional)
+pHV420	HVO_A0132_B	129784	129837	-	53	ISH16-type transposase HfIRS5 (nonfunctional)
+pHV421	HVO_A0132_C	130635	130688	-	53	ISH9-type transposase HfIRS2 (nonfunctional)
+pHV421	HVO_A0132_D	130525	130635	-	110	ISH9-type transposase HfIRS2 (nonfunctional)
+pHV422	HVO_A0135	133406	133768	+	362	HTH domain protein
+pHV422	HVO_A0136	133761	134105	+	344	PemK family protein
+pHV423	HVO_A0145	141079	142257	-	1178	ABC-type transport system ATP-binding protein (probable substrate sugar)
+pHV423	HVO_A0146	142260	143258	-	998	ABC-type transport system permease protein (probable substrate sugar)
+pHV423	HVO_A0147	143258	144250	-	992	ABC-type transport system permease protein (probable substrate sugar)
+pHV424	HVO_A0153	151328	151816	-	488	UspA domain protein
+pHV424	HVO_A0154	151820	153469	-	1649	SSSF family transport protein
+pHV424	HVO_A0155	153466	153903	-	437	DUF4212 family protein
+pHV425	HVO_A0161	163583	164173	+	590	TetR family transcription regulator
+pHV425	HVO_A0162	164170	165636	+	1466	MATE efflux family protein
+pHV426	HVO_A0163	165667	166728	-	1061	proline racemase
+pHV426	HVO_A0164	166725	167048	-	323	conserved hypothetical protein
+pHV426	HVO_A0165	167050	168516	-	1466	SNF family transport protein
+pHV427	HVO_A0166	168878	169117	+	239	conserved hypothetical protein
+pHV427	HVO_A0167	169148	169276	+	128	small CPxCG-related zinc finger protein
+pHV428	HVO_A0176	179508	180359	-	851	ABC-type transport system permease protein
+pHV428	HVO_A0177	180356	181339	-	983	ABC-type transport system ATP-binding protein
+pHV429	HVO_A0179	182280	183068	+	788	conserved hypothetical protein
+pHV429	HVO_A0180	183065	184846	+	1781	Smc-like protein Sph1
+pHV430	HVO_A0185	186868	187083	+	215	hypothetical protein
+pHV430	HVO_A0186	187110	188408	+	1298	ATP-grasp domain protein
+pHV431	HVO_A0188	189115	189552	-	437	homolog to endonuclease VapC
+pHV431	HVO_A0189	189549	189824	-	275	conserved hypothetical protein
+pHV432	HVO_A0191	191621	191761	+	140	hypothetical protein
+pHV432	HVO_A0192	191758	193056	+	1298	polysaccharide deacetylase domain protein
+pHV4114	HVO_A0204s	207662	207678	+	16	NA
+pHV4114	HVO_A0204s2	207708	207873	+	165	NA
+pHV433	HVO_A0205	207954	208772	+	818	CRISPR-associated endoribonuclease Cas6
+pHV433	HVO_A0206	208772	210925	+	2153	CRISPR-associated protein Cas8b
+pHV433	HVO_A0207	210946	211968	+	1022	CRISPR-associated protein Cas7
+pHV433	HVO_A0208	211979	212776	+	797	CRISPR-associated protein Cas5%2C Hmari subtype
+pHV433	HVO_A0209	212801	215614	+	2813	CRISPR-associated nuclease/helicase Cas3
+pHV434	HVO_A0210	215804	216355	+	551	CRISPR-associated exonuclease Cas4
+pHV434	HVO_A0211	216359	217354	+	995	CRISPR-associated endonuclease Cas1
+pHV434	HVO_A0212	217356	217616	+	260	CRISPR-associated endonuclease Cas2
+pHV435	HVO_A0216	222046	222621	+	575	LpxA family protein
+pHV435	HVO_A0217	222618	223721	+	1103	DegT family aminotransferase
+pHV435	HVO_A0218	223718	224803	+	1085	GFO family oxidoreductase
+pHV435	HVO_A0219	224800	226227	+	1427	probable nucleotide sugar dehydrogenase
+pHV435	HVO_A0220	226224	227309	+	1085	probable nucleotide sugar epimerase
+pHV435	HVO_A0221	227302	228387	+	1085	conserved hypothetical protein
+pHV436	HVO_A0223	229855	230040	+	185	hypothetical protein
+pHV436	HVO_A0224	230037	231125	+	1088	FemAB family protein
+pHV437	HVO_A0227	232853	232996	+	143	hypothetical protein
+pHV437	HVO_A0228	233027	233902	+	875	5'-nucleotidase SurE
+pHV438	HVO_A0233	237010	237321	-	311	hypothetical protein
+pHV438	HVO_A0234	237346	237771	-	425	homolog to phiCh1-ORF95
+pHV438	HVO_A0235	237783	238007	-	224	hypothetical protein
+pHV438	HVO_A0236	238018	238752	-	734	hypothetical protein
+pHV439	HVO_A0237	239082	241616	-	2534	adenine specific DNA methyltransferase (nonfunctional)
+pHV439	HVO_A0238	241631	242983	-	1352	ISH5-type transposase ISHvo11
+pHV440	HVO_A0243	246816	246986	-	170	conserved hypothetical protein
+pHV440	HVO_A0244	247020	247418	-	398	death-on-curing family protein
+pHV441	HVO_A0248	250238	250330	-	92	conserved hypothetical protein (nonfunctional)
+pHV441	HVO_A0248_A	249905	250237	-	332	conserved hypothetical protein (nonfunctional)
+pHV4115	HVO_A0249s	250939	251267	-	328	NA
+pHV4115	HVO_A0249s2	251252	251268	-	16	NA
+pHV442	HVO_A0252	253729	253890	+	161	HTH domain protein (nonfunctional)
+pHV442	HVO_A0252_A	253887	254132	+	245	HTH domain protein (nonfunctional)
+pHV443	HVO_A0259	261059	261217	-	158	conserved hypothetical protein (nonfunctional)
+pHV443	HVO_A0259_A	261041	261058	-	17	conserved hypothetical protein (nonfunctional)
+pHV443	HVO_A0259_B	260858	261040	-	182	conserved hypothetical protein (nonfunctional)
+pHV444	HVO_A0265	269450	269635	-	185	ISH14-type transposase HfIRS8 (nonfunctional)
+pHV444	HVO_A0265_A	269069	269443	-	374	ISH14-type transposase HfIRS8 (nonfunctional)
+pHV444	HVO_A0265_B	268959	269069	-	110	ISH14-type transposase HfIRS8 (nonfunctional)
+pHV445	HVO_A0269	274083	275774	+	1691	glycerol-3-phosphate dehydrogenase subunit A
+pHV445	HVO_A0270	275764	277122	+	1358	glycerol-3-phosphate dehydrogenase subunit B
+pHV446	HVO_A0275	281180	282259	-	1079	conserved hypothetical protein
+pHV446	HVO_A0276	282252	283844	-	1592	FGGY family carbohydrate kinase
+pHV447	HVO_A0277	284563	284832	+	269	ribonuclease H%2C type 1 (nonfunctional)
+pHV447	HVO_A0277_D	285087	285140	+	53	ribonuclease H%2C type 1 (nonfunctional)
+pHV447	HVO_A0277_D	285087	285140	+	53	ribonuclease H%2C type 1 (nonfunctional)
+pHV447	HVO_A0277_D	285087	285140	+	53	ribonuclease H%2C type 1 (nonfunctional)
+pHV447	HVO_A0277_D	285087	285140	+	53	ribonuclease H%2C type 1 (nonfunctional)
+pHV448	HVO_A0281	289927	291024	+	1097	ABC-type transport system ATP-binding protein (probable substrate sugar)
+pHV448	HVO_A0282	291026	291826	+	800	creatininase
+pHV449	HVO_A0283	291900	293252	+	1352	ABC-type transport system periplasmic substrate-binding protein (probable substrate sugar)
+pHV449	HVO_A0284	293262	294200	+	938	ABC-type transport system permease protein (probable substrate sugar)
+pHV449	HVO_A0285	294197	295042	+	845	ABC-type transport system permease protein (probable substrate sugar)
+pHV450	HVO_A0288	297495	298337	+	842	probable oxidoreductase (short-chain dehydrogenase family)
+pHV450	HVO_A0289	298349	298723	+	374	enamine/imine deaminase
+pHV451	HVO_A0293	303472	304617	+	1145	ABC-type transport system ATP-binding protein (probable substrate spermidine/putrescine)
+pHV451	HVO_A0294	304619	305785	+	1166	ABC-type transport system ATP-binding protein (probable substrate spermidine/putrescine)
+pHV452	HVO_A0295	305947	307179	+	1232	amidase (hydantoinase/carbamoylase family)
+pHV452	HVO_A0295_A	307182	308231	+	1049	luciferase family protein
+pHV453	HVO_A0310	324116	324898	-	782	conserved hypothetical protein
+pHV453	HVO_A0311	324918	325835	-	917	probable halocin (homolog to halocin C8)
+pHV454	HVO_A0313	326858	327058	-	200	cro/C1 family transcription regulator
+pHV454	HVO_A0314	327064	327459	-	395	hypothetical protein
+pHV454	HVO_A0315	327461	327691	-	230	conserved hypothetical protein
+pHV455	HVO_A0317	329325	329672	+	347	ArsR family transcription regulator
+pHV455	HVO_A0318	329674	329997	+	323	conserved hypothetical protein
+pHV456	HVO_A0322	332424	333305	+	881	ABC-type transport system permease protein
+pHV456	HVO_A0323	333302	334057	+	755	ABC-type transport system ATP-binding protein
+pHV456	HVO_A0324	334054	334635	+	581	conserved hypothetical protein
+pHV457	HVO_A0327	338616	338729	+	113	hypothetical protein
+pHV457	HVO_A0328	338726	339682	+	956	2-keto-3-deoxygalactonate kinase
+pHV458	HVO_A0336	346747	348900	-	2153	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV458	HVO_A0337	348897	349796	-	899	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV458	HVO_A0338	349796	350755	-	959	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV458	HVO_A0339	350771	352444	-	1673	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+pHV459	HVO_A0344	356797	357006	-	209	UspA domain protein (nonfunctional)
+pHV459	HVO_A0344_A	356250	356792	-	542	UspA domain protein (nonfunctional)
+pHV460	HVO_A0345	357340	357564	-	224	transport protein (probable substrate cationic amino acids) (nonfunctional)
+pHV460	HVO_A0345_A	356999	357355	-	356	transport protein (probable substrate cationic amino acids) (nonfunctional)
+pHV461	HVO_A0348	359521	360924	-	1403	ISH7-type transposase ISHvo15 (nonfunctional)
+pHV461	HVO_A0348_A	359324	359521	-	197	ISH7-type transposase ISHvo15 (nonfunctional)
+pHV462	HVO_A0350	363010	363651	+	641	conserved hypothetical protein
+pHV462	HVO_A0351	363651	364424	+	773	hypothetical protein
+pHV463	HVO_A0355	365782	367134	+	1352	ISH5-type transposase ISHvo11
+pHV463	HVO_A0356	367149	368417	+	1268	conserved hypothetical protein (nonfunctional)
+pHV463	HVO_A0357	368414	369298	+	884	conserved hypothetical protein
+pHV463	HVO_A0358	369295	370806	+	1511	conserved hypothetical protein
+pHV464	HVO_A0364	375384	376550	+	1166	ISH3-type transposase ISHvo20
+pHV464	HVO_A0365	375206	375349	+	143	conserved hypothetical protein (nonfunctional)
+pHV465	HVO_A0368	379569	379850	-	281	RelE family protein
+pHV465	HVO_A0369	379843	380139	-	296	CopG domain protein
+pHV466	HVO_A0370	380272	380319	+	47	conserved hypothetical protein (nonfunctional)
+pHV466	HVO_A0370_A	380333	380380	+	47	conserved hypothetical protein (nonfunctional)
+pHV466	HVO_A0370_B	380381	380524	+	143	conserved hypothetical protein (nonfunctional)
+pHV466	HVO_A0371	380521	381015	+	494	conserved hypothetical protein
+pHV467	HVO_A0376	385336	386439	-	1103	probable Xaa-Pro dipeptidase
+pHV467	HVO_A0377	386436	387218	-	782	hydantoin racemase
+pHV467	HVO_A0378	387218	388993	-	1775	N-methylhydantoinase (ATP-hydrolyzing) B
+pHV467	HVO_A0379	388990	391035	-	2045	N-methylhydantoinase (ATP-hydrolyzing) A
+pHV468	HVO_A0380	391212	392903	+	1691	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+pHV468	HVO_A0381	392914	393933	+	1019	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV468	HVO_A0382	393941	394840	+	899	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV468	HVO_A0383	394840	395964	+	1124	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV468	HVO_A0384	395961	397064	+	1103	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV469	HVO_A0385	397167	399215	+	2048	N-methylhydantoinase (ATP-hydrolyzing) A
+pHV469	HVO_A0386	399215	400966	+	1751	N-methylhydantoinase (ATP-hydrolyzing) B
+pHV469	HVO_A0387	400963	401295	+	332	cupin 2 barrel domain protein
+pHV470	HVO_A0389	401900	401977	+	77	conserved hypothetical protein (nonfunctional)
+pHV470	HVO_A0389_A	401978	402247	+	269	conserved hypothetical protein (nonfunctional)
+pHV470	HVO_A0389_B	402248	402328	+	80	conserved hypothetical protein (nonfunctional)
+pHV471	HVO_A0390	402616	402783	+	167	conserved hypothetical protein (nonfunctional)
+pHV471	HVO_A0390_A	402784	402894	+	110	conserved hypothetical protein (nonfunctional)
+pHV471	HVO_A0391	402891	403319	+	428	conserved hypothetical protein
+pHV472	HVO_A0392	403385	403867	+	482	death-on-curing family protein
+pHV472	HVO_A0393	403870	404007	+	137	conserved hypothetical protein
+pHV473	HVO_A0394	404316	404828	+	512	HTH domain protein
+pHV473	HVO_A0395	404825	405277	+	452	conserved hypothetical protein
+pHV473	HVO_A0396	405280	406098	+	818	SWIM zinc finger domain protein
+pHV474	HVO_A0403	410435	410932	+	497	ISHwa16-type transposase ISHvo16
+pHV474	HVO_A0403_A	410932	411435	+	503	ISHwa16-type transposase ISHvo16
+pHV474	HVO_A0405	410345	410392	+	47	conserved hypothetical protein (nonfunctional)
+pHV475	HVO_A0408	413614	413925	+	311	ISH3-type transposase ISH20 (nonfunctional)
+pHV475	HVO_A0408_A	413933	414760	+	827	ISH3-type transposase ISH20 (nonfunctional)
+pHV476	HVO_A0417	422330	422638	+	308	conserved hypothetical protein
+pHV476	HVO_A0418	422619	423086	+	467	HTH domain protein
+pHV477	HVO_A0425	428467	429507	-	1040	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV477	HVO_A0426	429509	430522	-	1013	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV477	HVO_A0426_A	430526	431455	-	929	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV477	HVO_A0427	431457	432383	-	926	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV477	HVO_A0428	432411	434114	-	1703	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+pHV478	HVO_A0429_A	435957	437012	-	1055	homolog to dipeptide epimerase
+pHV478	HVO_A0430	437009	438049	-	1040	DUF1611 family protein
+pHV479	HVO_A0435	443575	444387	-	812	DUF2204 family protein
+pHV479	HVO_A0436	444384	445307	-	923	ArsR family transcription regulator
+pHV480	HVO_A0437	445533	445964	+	431	conserved hypothetical protein
+pHV480	HVO_A0438	445961	446530	+	569	conserved hypothetical protein
+pHV481	HVO_A0440	447953	449311	-	1358	DUF790 family protein
+pHV481	HVO_A0441	449311	450711	-	1400	DNA repair helicase Rad25
+pHV482	HVO_A0443	451482	451976	-	494	conserved hypothetical protein
+pHV482	HVO_A0444	451973	452332	-	359	conserved hypothetical protein
+pHV483	HVO_A0450	457668	457904	-	236	UspA domain protein (nonfunctional)
+pHV483	HVO_A0450_A	456082	456261	-	179	UspA domain protein (nonfunctional)
+pHV484	HVO_A0451	458433	460358	+	1925	transport protein (probable substrate arsenite/antimonite)
+pHV484	HVO_A0452	460367	461248	+	881	UspA domain protein
+pHV485	HVO_A0458	465053	465928	+	875	ParA domain protein
+pHV485	HVO_A0459	465925	466335	+	410	conserved hypothetical protein
+pHV486	HVO_A0460	467011	467805	-	794	ABC-type transport system permease protein (probable substrate phosphate/phosphonate)
+pHV486	HVO_A0461	467805	468605	-	800	ABC-type transport system permease protein (probable substrate phosphate/phosphonate)
+pHV487	HVO_A0466	472030	473682	+	1652	conserved hypothetical protein
+pHV487	HVO_A0467	473682	476165	+	2483	RND superfamily permease
+pHV488	HVO_A0470	477582	478544	+	962	glyoxalase domain protein
+pHV488	HVO_A0471	478544	479248	+	704	alpha/beta hydrolase fold protein
+pHV489	HVO_A0478	484636	485769	+	1133	ABC-type transport system permease protein (probable substrate phosphate)
+pHV489	HVO_A0479	485769	487391	+	1622	ABC-type transport system permease protein (probable substrate phosphate)
+pHV489	HVO_A0480	487394	488347	+	953	ABC-type transport system ATP-binding protein (probable substrate phosphate)
+pHV490	HVO_A0483	490874	491545	+	671	ISH3-type transposase ISH51 (nonfunctional)
+pHV490	HVO_A0483_A	491546	492043	+	497	ISH3-type transposase ISH51 (nonfunctional)
+pHV491	HVO_A0489	497237	498328	-	1091	homolog to homocitrate synthase
+pHV491	HVO_A0490	498329	499576	-	1247	family 3 CoA transferase
+pHV491	HVO_A0491	499573	500724	-	1151	ABC-type transport system ATP-binding protein (probable substrate sugar)
+pHV491	HVO_A0492	500724	501590	-	866	ABC-type transport system permease protein (probable substrate sugar)
+pHV491	HVO_A0493	501592	502521	-	929	ABC-type transport system permease protein (probable substrate sugar)
+pHV491	HVO_A0494	502518	503849	-	1331	ABC-type transport system periplasmic substrate-binding protein (probable substrate sugar)
+pHV492	HVO_A0507	513415	514359	+	944	1%2C2-phenylacetyl-CoA epoxidase subunit A
+pHV492	HVO_A0508	514365	514685	+	320	1%2C2-phenylacetyl-CoA epoxidase subunit B
+pHV492	HVO_A0509	514688	515506	+	818	1%2C2-phenylacetyl-CoA epoxidase subunit C
+pHV492	HVO_A0510	515499	515942	+	443	DUF59 family protein
+pHV492	HVO_A0511	515946	516113	+	167	small CPxCG-related zinc finger protein
+pHV493	HVO_A0514	518259	518876	-	617	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+pHV493	HVO_A0515	518873	519637	-	764	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+pHV493	HVO_A0516	519630	521576	-	1946	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+pHV494	HVO_A0522	525323	526486	+	1163	acetyl-CoA C-acyltransferase
+pHV494	HVO_A0523	526483	528051	+	1568	UPF0219 family protein
+pHV495	HVO_A0524	528138	529022	+	884	3-hydroxyacyl-CoA dehydrogenase
+pHV495	HVO_A0525	529019	529900	+	881	enoyl-CoA hydratase
+pHV496	HVO_A0528	531423	531743	+	320	EthD domain protein
+pHV496	HVO_A0529	531748	533442	+	1694	acetolactate synthase large subunit
+pHV497	HVO_A0533	535259	535849	-	590	HD family hydrolase
+pHV497	HVO_A0534	535853	536575	-	722	EthD domain protein
+pHV498	HVO_A0536	538172	539779	-	1607	N-methylhydantoinase (ATP-hydrolyzing) B
+pHV498	HVO_A0537	539776	541791	-	2015	N-methylhydantoinase (ATP-hydrolyzing) A
+pHV498	HVO_A0538	541791	543008	-	1217	NRAMP family transport protein (probable substrate divalent metal cation)
+pHV499	HVO_A0542	546030	546164	-	134	hypothetical protein
+pHV499	HVO_A0543	546161	546592	-	431	conserved hypothetical protein
+pHV4100	HVO_A0559	562540	564126	-	1586	histidine ammonia-lyase
+pHV4100	HVO_A0560	564119	565357	-	1238	imidazolonepropionase
+pHV4100	HVO_A0561	565350	566300	-	950	formimidoylglutamase
+pHV4100	HVO_A0562	566297	568159	-	1862	urocanate hydratase
+pHV4101	HVO_A0566	570870	571400	-	530	3-isopropylmalate dehydratase small subunit
+pHV4101	HVO_A0567	571397	572710	-	1313	3-isopropylmalate dehydratase large subunit
+pHV4101	HVO_A0568	572712	573671	-	959	hydroxymethylglutaryl-CoA lyase
+pHV4101	HVO_A0569	573668	574873	-	1205	family 3 CoA transferase
+pHV4102	HVO_A0570	575069	576469	-	1400	probable metal-dependent hydrolase
+pHV4102	HVO_A0571	576466	577125	-	659	isochorismatase family protein
+pHV4103	HVO_A0572	577192	578169	-	977	probable flavin-dependent oxidoreductase
+pHV4103	HVO_A0574	578166	578567	-	401	DUF1486 family protein
+pHV4104	HVO_A0577	581819	582784	+	965	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+pHV4104	HVO_A0578	582781	583857	+	1076	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+pHV4104	HVO_A0579	583857	584648	+	791	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+pHV4104	HVO_A0580	584641	585345	+	704	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+pHV4104	HVO_A0581	585347	586675	+	1328	PrpD family protein
+pHV4105	HVO_A0594	597454	599271	-	1817	glutamine--fructose-6-phosphate aminotransferase (isomerizing)
+pHV4105	HVO_A0595	599271	600440	-	1169	sugar nucleotidyltransferase
+pHV4106	HVO_A0606	607809	609122	-	1313	major facilitator superfamily transport protein
+pHV4106	HVO_A0607	609119	609364	-	245	purine-binding taxis protein CheW
+pHV4107	HVO_A0609	610663	610833	-	170	ABC-type transport system permease protein (probable substrate zinc) (nonfunctional)
+pHV4107	HVO_A0609_A	609848	610660	-	812	ABC-type transport system permease protein (probable substrate zinc) (nonfunctional)
+pHV4108	HVO_A0610	610830	611606	-	776	ABC-type transport system ATP-binding protein (probable substrate zinc)
+pHV4108	HVO_A0611	611603	612610	-	1007	ABC-type transport system periplasmic substrate-binding protein (probable substrate zinc)
+pHV4109	HVO_A0619	617447	618805	-	1358	conserved hypothetical protein
+pHV4109	HVO_A0620	618807	619418	-	611	conserved hypothetical protein
+pHV4110	HVO_A0621	619529	620101	+	572	conserved hypothetical protein
+pHV4110	HVO_A0622	620140	620598	+	458	conserved hypothetical protein
+pHV4111	HVO_A0625	624026	625435	-	1409	conserved hypothetical protein
+pHV4111	HVO_A0626	625432	625689	-	257	conserved hypothetical protein
+pHV4112	HVO_A0634	631456	632805	+	1349	peptidase M20 family protein (homolog to succinyl-diaminopimelate desuccinylase)
+pHV4112	HVO_A0635	632812	633927	+	1115	probable cysteine desulfurase
+pHV30	HVO_B0008	8220	8594	-	374	conserved hypothetical protein
+pHV30	HVO_B0009	8587	9729	-	1142	aromatic-ring-hydroxylating dioxygenase alpha subunit family protein
+pHV31	HVO_B0012	11360	13114	+	1754	compatible solute transport protein (probable substrate choline/glycine betaine)
+pHV31	HVO_B0013	13151	13309	+	158	conserved hypothetical protein
+pHV32	HVO_B0015	16218	16589	-	371	PIN domain protein (nonfunctional)
+pHV32	HVO_B0016	16592	16822	-	230	conserved hypothetical protein
+pHV33	HVO_B0017	16978	17400	-	422	conserved hypothetical protein
+pHV33	HVO_B0018	17397	18260	-	863	ParA domain protein
+pHV34	HVO_B0022	22808	23803	+	995	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV34	HVO_B0023	23800	24720	+	920	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV34	HVO_B0024	24717	26834	+	2117	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV35	HVO_B0027	29918	30787	+	869	2-keto-3-deoxyxylonate dehydratase
+pHV35	HVO_B0028	30784	31956	+	1172	xylose dehydrogenase (NADP)
+pHV36	HVO_B0035	37352	38305	+	953	ABC-type transport system permease protein (probable substrate sugar)
+pHV36	HVO_B0036	38308	39237	+	929	ABC-type transport system permease protein (probable substrate sugar)
+pHV36	HVO_B0037	39241	40392	+	1151	ABC-type transport system ATP-binding protein (probable substrate sugar)
+pHV36	HVO_B0038	40395	41546	+	1151	ABC-type transport system ATP-binding protein (probable substrate sugar)
+pHV37	HVO_B0041	46367	48205	-	1838	siderophore biosynthesis protein IucC
+pHV37	HVO_B0042	48214	49587	-	1373	probable 1%2C3-diaminopropane N-3-monooxygenase
+pHV37	HVO_B0043	49584	50225	-	641	probable N4-hydroxy-1-aminopropane O-acetyltransferase
+pHV37	HVO_B0044	50222	52003	-	1781	siderophore biosynthesis protein IucA
+pHV37	HVO_B0045	52000	53565	-	1565	diaminobutyrate decarboxylase
+pHV37	HVO_B0046	53562	54941	-	1379	diaminobutyrate--2-oxoglutarate aminotransferase
+pHV38	HVO_B0048	56690	57502	-	812	cobalt-precorrin-7 C5-methyltransferase
+pHV38	HVO_B0049	57495	58175	-	680	cobalt-precorrin-8 methylmutase
+pHV38	HVO_B0050	58168	62022	-	3854	ATP-dependent cobaltochelatase subunit CobN
+pHV39	HVO_B0052	64223	65461	-	1238	PQQ repeat protein
+pHV39	HVO_B0053	65466	65849	-	383	DUF3209 family protein
+pHV39	HVO_B0054	65852	67072	-	1220	sirohydrochlorin cobaltochelatase
+pHV39	HVO_B0055	67069	67746	-	677	conserved hypothetical protein
+pHV39	HVO_B0056	67743	67997	-	254	probable ferredoxin (4Fe-4S)
+pHV39	HVO_B0057	67999	69033	-	1034	cobalt-factor-III C17-methyltransferase
+pHV39	HVO_B0058	69037	69921	-	884	cobalt-factor-III C17-methyltransferase
+pHV39	HVO_B0059	69918	70898	-	980	cobalt-precorrin-5A hydrolase
+pHV39	HVO_B0060	70891	71730	-	839	cobalt-precorrin-4 C11-methyltransferase
+pHV39	HVO_B0061	71727	72434	-	707	cobalt-factor-II C20-methyltransferase
+pHV39	HVO_B0062	72431	72985	-	554	cobalt-precorrin-6B C15-methyltransferase (decarboxylating)
+pHV310	HVO_B0063	73155	73340	+	185	CbtB family protein
+pHV310	HVO_B0064	73343	74179	+	836	CbtA family protein
+pHV310	HVO_B0065	74179	74520	+	341	thioredoxin domain protein
+pHV311	HVO_B0068	76732	76899	-	167	hypothetical protein
+pHV311	HVO_B0069	76896	78275	-	1379	aldehyde dehydrogenase
+pHV312	HVO_B0074	82704	83819	-	1115	DUF917 family protein
+pHV312	HVO_B0075	83816	84904	-	1088	DUF917 family protein
+pHV312	HVO_B0076	84904	86448	-	1544	N-methylhydantoinase (ATP-hydrolyzing) A
+pHV312	HVO_B0077	86441	87532	-	1091	DUF917 family protein
+pHV312	HVO_B0078	87529	88599	-	1070	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV312	HVO_B0079	88592	89704	-	1112	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV312	HVO_B0080	89701	90600	-	899	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV312	HVO_B0081	90597	91628	-	1031	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV312	HVO_B0082	91625	93334	-	1709	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+pHV313	HVO_B0089	100521	101582	-	1061	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV313	HVO_B0090	101579	102649	-	1070	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV314	HVO_B0091	102695	103717	-	1022	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV314	HVO_B0092	103720	104724	-	1004	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV315	HVO_B0107	120598	121524	+	926	ABC-type transport system permease protein (probable substrate sugar)
+pHV315	HVO_B0108	121524	122489	+	965	ABC-type transport system permease protein (probable substrate sugar)
+pHV316	HVO_B0111	125057	126262	+	1205	homolog to mandelate racemase / homolog to muconate lactonizing enzyme
+pHV316	HVO_B0113	126265	127293	+	1028	probable F420-dependent oxidoreductase
+pHV317	HVO_B0123	138313	139269	+	956	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV317	HVO_B0124	139262	140242	+	980	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV318	HVO_B0133	147763	149388	-	1625	conserved hypothetical protein
+pHV318	HVO_B0134	149385	150161	-	776	ABC-type transport system ATP-binding protein
+pHV319	HVO_B0138	152981	154204	-	1223	PQQ repeat protein
+pHV319	HVO_B0139	154201	155490	-	1289	PQQ repeat protein
+pHV320	HVO_B0140	155618	156538	+	920	PQQ repeat protein
+pHV320	HVO_B0141	156528	157784	+	1256	PQQ repeat protein
+pHV321	HVO_B0153	171961	173601	-	1640	CapB domain protein
+pHV321	HVO_B0153_A	173598	174764	-	1166	CapC domain protein
+pHV322	HVO_B0160	186336	186911	+	575	conserved hypothetical protein
+pHV322	HVO_B0161	186911	187564	+	653	respiratory nitrate reductase iron-sulfur subunit
+pHV322	HVO_B0162	187564	189012	+	1448	respiratory nitrate reductase b-type cytochrome subunit
+pHV322	HVO_B0163	189005	189217	+	212	conserved hypothetical protein
+pHV322	HVO_B0164	189214	192165	+	2951	respiratory nitrate reductase catalytic subunit
+pHV322	HVO_B0165	192162	193232	+	1070	respiratory nitrate reductase electron transfer subunit
+pHV323	HVO_B0166	193290	194105	+	815	conserved hypothetical protein
+pHV323	HVO_B0167	194116	194862	+	746	chaperonin-like protein
+pHV323	HVO_B0168	194859	195758	+	899	conserved hypothetical protein
+pHV323	HVO_B0169	195755	196585	+	830	HEAT-PBS family protein
+pHV323	HVO_B0170	196588	197886	+	1298	Fe-S cluster carrier protein ApbC
+pHV324	HVO_B0172	199266	199328	-	62	transport protein (probable substrate phosphate/sulfate) (nonfunctional)
+pHV324	HVO_B0172_A	198487	199272	-	785	transport protein (probable substrate phosphate/sulfate) (nonfunctional)
+pHV325	HVO_B0176	204905	205864	-	959	ABC-type transport system permease protein (probable substrate cobalt)
+pHV325	HVO_B0177	205861	207702	-	1841	ABC-type transport system ATP-binding protein (probable substrate cobalt)
+pHV325	HVO_B0178	207722	208585	-	863	conserved hypothetical protein
+pHV326	HVO_B0179	208868	209665	-	797	YfiH family protein
+pHV326	HVO_B0180	209658	210395	-	737	ComB family protein
+pHV327	HVO_B0185	215327	216271	+	944	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV327	HVO_B0186	216268	217164	+	896	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV328	HVO_B0187	217538	218686	+	1148	ABC-type transport system periplasmic substrate-binding protein
+pHV328	HVO_B0188	218689	219627	+	938	ABC-type transport system permease protein
+pHV328	HVO_B0189	219624	220517	+	893	ABC-type transport system permease protein
+pHV328	HVO_B0190	220517	221257	+	740	ABC-type transport system ATP-binding protein
+pHV329	HVO_B0192	223140	223451	-	311	conserved hypothetical protein
+pHV329	HVO_B0193	223453	223824	-	371	ArsR family transcription regulator
+pHV330	HVO_B0197	226697	227809	-	1112	ABC-type transport system permease protein
+pHV330	HVO_B0198	227816	229012	-	1196	ABC-type transport system periplasmic substrate-binding protein
+pHV331	HVO_B0210	244643	245518	-	875	YfiH family protein
+pHV331	HVO_B0211	245522	246328	-	806	TatD domain protein
+pHV332	HVO_B0213	246774	247970	+	1196	myo-inositol-1-phosphate synthase
+pHV332	HVO_B0214	247967	249367	+	1400	E-NPP family protein
+pHV333	HVO_B0218	258281	259222	+	941	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+pHV333	HVO_B0219	259219	260373	+	1154	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+pHV333	HVO_B0220	260373	261131	+	758	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+pHV333	HVO_B0221	261128	261871	+	743	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+pHV334	HVO_B0228	269467	270846	+	1379	ABC-type transport system periplasmic substrate-binding protein (probable substrate sugar)
+pHV334	HVO_B0229	270853	271785	+	932	ABC-type transport system permease protein (probable substrate sugar)
+pHV334	HVO_B0230	271778	272653	+	875	ABC-type transport system permease protein (probable substrate sugar)
+pHV334	HVO_B0231	272650	273369	+	719	conserved hypothetical protein
+pHV335	HVO_B0235	279990	283325	-	3335	probable anaerobic dehydrogenase alpha subunit
+pHV335	HVO_B0236	283322	284839	-	1517	homolog to NADH dehydrogenase 51K subunit
+pHV336	HVO_B0241	287729	288964	-	1235	IS1341-type transposase ISHvo18
+pHV336	HVO_B0242	288961	289350	-	389	IS200-type transposase ISHvo18
+pHV337	HVO_B0249	296776	297144	-	368	ISH11-type transposase HfIRS3 (nonfunctional)
+pHV337	HVO_B0249_A	296165	296788	-	623	ISH11-type transposase HfIRS3 (nonfunctional)
+pHV338	HVO_B0257	304696	306075	+	1379	pyridoxal phosphate-dependent aminotransferase
+pHV338	HVO_B0258	306094	306480	+	386	enamine/imine deaminase
+pHV339	HVO_B0262	310915	312210	-	1295	threonine ammonia-lyase
+pHV339	HVO_B0263	312207	313517	-	1310	M20 family amidohydrolase (homolog to indole-3-acetyl-aspartate hydrolase)
+pHV340	HVO_B0264	313647	314615	+	968	probable D-2-hydroxyacid dehydrogenase
+pHV340	HVO_B0265	314622	317768	+	3146	FAD-dependent oxidoreductase (GlcD/DLD_GlcF/GlpC domain fusion protein)
+pHV341	HVO_B0266	317826	319133	-	1307	glutamate dehydrogenase (NAD)
+pHV341	HVO_B0267	319160	320338	-	1178	peptidase M24 family protein (homolog to ectoine hydrolase)
+pHV342	HVO_B0271	324323	324436	-	113	conserved hypothetical protein (nonfunctional)
+pHV342	HVO_B0271_A	323997	324323	-	326	conserved hypothetical protein (nonfunctional)
+pHV343	HVO_B0274	327393	327758	+	365	conserved hypothetical protein
+pHV343	HVO_B0275	327755	328153	+	398	conserved hypothetical protein
+pHV344	HVO_B0281	331999	332268	+	269	hypothetical protein
+pHV344	HVO_B0282	332280	333530	+	1250	HTH domain protein
+pHV345	HVO_B0292	340588	342057	+	1469	ABC-type transport system periplasmic substrate-binding protein (probable substrate glycerol-3-phosphate)
+pHV345	HVO_B0293	342080	342973	+	893	ABC-type transport system permease protein (probable substrate glycerol-3-phosphate)
+pHV345	HVO_B0294	342978	343844	+	866	ABC-type transport system permease protein (probable substrate glycerol-3-phosphate)
+pHV345	HVO_B0295	343855	344988	+	1133	ABC-type transport system ATP-binding protein (probable substrate glycerol-3-phosphate)
+pHV346	HVO_B0299	346327	346677	-	350	5-hydroxyisourate hydrolase
+pHV346	HVO_B0300	346679	347605	-	926	uricase
+pHV347	HVO_B0305	351603	352019	-	416	conserved hypothetical protein
+pHV347	HVO_B0306	352046	353365	-	1319	amidase (hydantoinase/carbamoylase family)
+pHV348	HVO_B0308	354247	354765	+	518	aerobic-type carbon monoxide dehydrogenase small subunit
+pHV348	HVO_B0309	354767	357130	+	2363	aerobic-type carbon monoxide dehydrogenase large subunit
+pHV348	HVO_B0310	357127	357996	+	869	aerobic-type carbon monoxide dehydrogenase medium subunit
+pHV349	HVO_B0311	358112	359041	+	929	XdhC family protein (nonfunctional)
+pHV349	HVO_B0311_A	359041	359079	+	38	XdhC family protein (nonfunctional)
+pHV349	HVO_B0311_B	359079	359102	+	23	XdhC family protein (nonfunctional)
+pHV349	HVO_B0311_C	359102	359131	+	29	XdhC family protein (nonfunctional)
+pHV349	HVO_B0311_D	359134	359148	+	14	XdhC family protein (nonfunctional)
+pHV349	HVO_B0311_E	359149	359250	+	101	XdhC family protein (nonfunctional)
+pHV349	HVO_B0313	359247	359831	+	584	molybdenum cofactor nucleotidyltransferase domain protein
+pHV350	HVO_B0314	360154	361143	-	989	ABC-type transport system permease protein (substrate glucose)
+pHV350	HVO_B0315	361140	362282	-	1142	ABC-type transport system permease protein (substrate glucose)
+pHV350	HVO_B0316	362279	363931	-	1652	ABC-type transport system ATP-binding protein (substrate glucose)
+pHV351	HVO_B0325	375818	377467	-	1649	glycoside hydrolase family protein
+pHV351	HVO_B0326	377474	378460	-	986	conserved hypothetical protein
+pHV352	HVO_B0331	384446	385507	+	1061	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV352	HVO_B0332	385504	386619	+	1115	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+pHV353	HVO_B0337	391344	391652	-	308	SAF domain protein
+pHV353	HVO_B0338	391649	392839	-	1190	probable hydro-lyase (homolog to altronate dehydratase)
+pHV354	HVO_B0355	410664	411635	-	971	conserved hypothetical protein
+pHV354	HVO_B0356	411652	412176	-	524	conserved hypothetical protein
+pHV354	HVO_B0357	412183	414009	-	1826	spermidine synthase
+pHV355	HVO_B0362	418592	418831	+	239	conserved hypothetical protein
+pHV355	HVO_B0363	418824	421355	+	2531	dimethylsulfoxide reductase subunit A
+pHV355	HVO_B0364	421358	422179	+	821	dimethylsulfoxide reductase subunit B
+pHV355	HVO_B0365	422179	423492	+	1313	dimethylsulfoxide reductase subunit C
+pHV355	HVO_B0366	423489	424082	+	593	Tat proofreading chaperone DmsD
+pHV356	HVO_B0367	424234	424707	+	473	conserved hypothetical protein
+pHV356	HVO_B0368	424712	425470	+	758	molybdenum cofactor guanylyltransferase
+pHV356	HVO_B0369	425467	426384	+	917	ABC-type transport system periplasmic substrate-binding protein (probable substrate molybdate)
+pHV356	HVO_B0370	426365	427174	+	809	ABC-type transport system permease protein (probable substrate molybdate)
+pHV357	HVO_B0379	433504	435033	-	1529	SSSF family transport protein
+pHV357	HVO_B0380	435027	435812	-	785	thiamine biosynthesis/salvage protein TenA
+pHV357	HVO_B0381	435809	436474	-	665	thiamine biosynthesis/salvage protein TenA
+pHV10	HVO_C0005_A	5382	5456	-	74	homolog to virus structural protein HGPV1-VP3 (nonfunctional)
+pHV10	HVO_C0005_B	5338	5379	-	41	homolog to virus structural protein HGPV1-VP3 (nonfunctional)
+pHV10	HVO_C0005_C	5326	5337	-	11	homolog to virus structural protein HGPV1-VP3 (nonfunctional)
+pHV11	HVO_C0006	5497	5742	-	245	UPF0395 family protein
+pHV11	HVO_C0007	5743	6006	-	263	conserved hypothetical protein
+pHV12	HVO_C0015	11678	12253	-	575	conserved hypothetical protein
+pHV12	HVO_C0016	12281	12409	-	128	hypothetical protein
+pHV13	HVO_C0017	12637	13536	+	899	ParA domain protein
+pHV13	HVO_C0018	13539	13925	+	386	conserved hypothetical protein
+pHV14	HVO_C0020_A	14579	14623	+	44	ISH14-type transposase HfIRS8 (nonfunctional)
+pHV14	HVO_C0020_B	14624	14671	+	47	ISH14-type transposase HfIRS8 (nonfunctional)
+pHV14	HVO_C0020_C	14670	14834	+	164	ISH14-type transposase HfIRS8 (nonfunctional)
+pHV15	HVO_C0028	18908	19882	+	974	conserved hypothetical protein
+pHV15	HVO_C0029	19887	20411	+	524	PIN domain protein
+pHV15	HVO_C0030	20437	20628	+	191	hypothetical protein
+pHV16	HVO_C0043	42448	44433	+	1985	conserved hypothetical protein
+pHV16	HVO_C0044	44460	45461	+	1001	PLD domain protein
+pHV17	HVO_C0052	53131	53205	-	74	ISH4-type transposase ISHvo5 (nonfunctional)
+pHV17	HVO_C0052_A	50866	51690	-	824	ISH4-type transposase ISHvo5 (nonfunctional)
+pHV17	HVO_C0053	51699	53051	-	1352	ISH5-type transposase ISHvo11
+pHV18	HVO_C0054_A	54562	54645	-	83	ISH14-type transposase HfIRS10 (nonfunctional)
+pHV18	HVO_C0054_B	54547	54561	-	14	ISH14-type transposase HfIRS10 (nonfunctional)
+pHV18	HVO_C0054_C	54474	54542	-	68	ISH14-type transposase HfIRS10 (nonfunctional)
+pHV19	HVO_C0058	59587	60195	-	608	ISH4-type transposase ISHvo6 (nonfunctional)
+pHV19	HVO_C0058_A	59217	59585	-	368	ISH4-type transposase ISHvo6 (nonfunctional)
+pHV110	HVO_C0060	60310	60609	+	299	CopG domain protein
+pHV110	HVO_C0061	60610	60645	+	35	RelE family protein (nonfunctional)
+pHV110	HVO_C0061_A	60648	60872	+	224	RelE family protein (nonfunctional)
+pHV111	HVO_C0065	62797	63186	+	389	ISH14-type transposase HfIRS9 (nonfunctional)
+pHV111	HVO_C0065_A	63187	63318	+	131	ISH14-type transposase HfIRS9 (nonfunctional)
+pHV111	HVO_C0065_B	63309	63476	+	167	ISH14-type transposase HfIRS9 (nonfunctional)
+pHV112	HVO_C0072	70334	71227	-	893	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV112	HVO_C0073	71227	72192	-	965	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+pHV113	HVO_C0078	79346	79477	-	131	ISHwa16-type transposase ISHvo16 (nonfunctional)
+pHV113	HVO_C0078_A	79142	79345	-	203	ISHwa16-type transposase ISHvo16 (nonfunctional)
+pHV114	HVO_C0079	79485	79778	-	293	ISH16-type transposase HfIRS4 (nonfunctional)
+pHV114	HVO_C0080	79789	80892	-	1103	ISH16-type transposase ISHvo8
+pHV115	HVO_C0085	83320	83664	-	344	homolog to virus protein eHPD7_00180
+pHV115	HVO_C0086	83661	83855	-	194	small CPxCG-related zinc finger protein
+pHV115	HVO_C0087	83852	84292	-	440	hypothetical protein
+pHV115	HVO_C0088	84301	84525	-	224	hypothetical protein
